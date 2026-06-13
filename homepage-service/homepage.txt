@@ -1,0 +1,526 @@
+<html class="scroll-smooth" lang="en" style=""><head></head><body class="bg-background text-on-surface font-body-md overflow-x-hidden">```html
+
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Dr. Bali's Bliss | Ancient Wisdom, Modern Luxury</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&amp;family=Open+Sans:wght@300;400;500;600&amp;family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@100..900&amp;family=Playfair+Display:wght@100..900&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+          darkMode: "class",
+          theme: {
+            extend: {
+              "colors": {
+                      "on-secondary-fixed-variant": "#584400",
+                      "surface-container": "#f2ede5",
+                      "on-tertiary-fixed-variant": "#3e4c00",
+                      "surface-container-highest": "#e7e2da",
+                      "whatsapp-green": "#25D366",
+                      "on-primary": "#ffffff",
+                      "tertiary-fixed-dim": "#bccf74",
+                      "tertiary-fixed": "#d8ec8d",
+                      "surface": "#fef9f1",
+                      "secondary-fixed-dim": "#e6c364",
+                      "on-primary-fixed": "#0a2100",
+                      "outline": "#73796c",
+                      "secondary-container": "#fed977",
+                      "error-container": "#ffdad6",
+                      "on-error": "#ffffff",
+                      "surface-bright": "#fef9f1",
+                      "surface-container-high": "#ece8e0",
+                      "surface-variant": "#e7e2da",
+                      "on-surface": "#1d1c17",
+                      "on-secondary-fixed": "#241a00",
+                      "on-tertiary-fixed": "#171e00",
+                      "outline-variant": "#c3c9b9",
+                      "inverse-surface": "#32302b",
+                      "surface-tint": "#43682b",
+                      "surface-dim": "#ded9d2",
+                      "on-secondary-container": "#785d00",
+                      "on-tertiary": "#ffffff",
+                      "surface-container-low": "#f8f3eb",
+                      "primary": "#173901",
+                      "inverse-primary": "#a8d38a",
+                      "inverse-on-surface": "#f5f0e8",
+                      "on-tertiary-container": "#acbe66",
+                      "primary-container": "#2d5016",
+                      "tertiary": "#2b3500",
+                      "primary-fixed": "#c4efa3",
+                      "primary-fixed-dim": "#a8d38a",
+                      "on-secondary": "#ffffff",
+                      "background": "#fef9f1",
+                      "secondary-fixed": "#ffe08f",
+                      "terracotta-accent": "#C9A84C", /* Remapped Gold to terracotta-accent per requirements */
+                      "on-primary-container": "#98c27b",
+                      "on-background": "#1d1c17",
+                      "tertiary-container": "#3f4d00",
+                      "on-surface-variant": "#43493d",
+                      "error": "#ba1a1a",
+                      "secondary": "#755b00",
+                      "on-error-container": "#93000a",
+                      "on-primary-fixed-variant": "#2c4f15",
+                      "leaf-green": "#7E8F3C",
+                      "surface-container-lowest": "#ffffff",
+                      "surface-cream": "#FAF8F5"
+              },
+              "borderRadius": {
+                      "DEFAULT": "1rem",
+                      "lg": "2rem",
+                      "xl": "3rem",
+                      "full": "9999px"
+              },
+              "spacing": {
+                      "container-max": "1280px",
+                      "section-padding-mobile": "64px",
+                      "unit": "8px",
+                      "section-padding-desktop": "120px",
+                      "gutter": "24px"
+              },
+              "fontFamily": {
+                      "label-sm": ["Open Sans"],
+                      "label-md": ["Open Sans"],
+                      "display-lg": ["Playfair Display"],
+                      "headline-lg": ["Playfair Display"],
+                      "body-md": ["Open Sans"],
+                      "headline-sm": ["Playfair Display"],
+                      "body-lg": ["Open Sans"],
+                      "display-lg-mobile": ["Playfair Display"],
+                      "headline-md": ["Playfair Display"]
+              },
+              "fontSize": {
+                      "label-sm": ["12px", {"lineHeight": "16px", "fontWeight": "500"}],
+                      "label-md": ["14px", {"lineHeight": "20px", "letterSpacing": "0.05em", "fontWeight": "600"}],
+                      "display-lg": ["64px", {"lineHeight": "72px", "letterSpacing": "-0.02em", "fontWeight": "700"}],
+                      "headline-lg": ["48px", {"lineHeight": "56px", "fontWeight": "600"}],
+                      "body-md": ["16px", {"lineHeight": "24px", "fontWeight": "400"}],
+                      "headline-sm": ["24px", {"lineHeight": "32px", "fontWeight": "500"}],
+                      "body-lg": ["18px", {"lineHeight": "28px", "fontWeight": "400"}],
+                      "display-lg-mobile": ["40px", {"lineHeight": "48px", "letterSpacing": "-0.01em", "fontWeight": "700"}],
+                      "headline-md": ["32px", {"lineHeight": "40px", "fontWeight": "600"}]
+              }
+            },
+          },
+        }
+    </script>
+<style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+            vertical-align: middle;
+        }
+        .botanical-mask {
+            mask-image: url('https://www.svgrepo.com/show/491176/leaf.svg');
+            mask-repeat: no-repeat;
+            mask-size: contain;
+        }
+        .glass-nav {
+            background: rgba(254, 249, 241, 0.95);
+            backdrop-filter: blur(20px);
+        }
+        .dropdown-menu {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            background: white;
+            min-width: 240px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            padding: 1rem 0;
+            border-radius: 0.5rem;
+            z-index: 50;
+        }
+        .nav-item:hover .dropdown-menu {
+            display: block;
+        }
+    </style>
+<!-- WhatsApp Floating Action Button -->
+<a class="fixed bottom-8 right-8 z-50 bg-whatsapp-green text-white p-4 rounded-full shadow-lg hover:scale-110 transition-transform flex items-center justify-center" href="https://wa.me/919810469956" target="_blank">
+<svg class="w-8 h-8" fill="currentColor" viewbox="0 0 24 24"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.246 2.248 3.484 5.232 3.483 8.413-.003 6.557-5.338 11.892-11.893 11.892-1.997-.001-3.951-.5-5.688-1.448l-6.308 1.654zm6.757-4.191l.363.216c1.52.905 3.274 1.382 5.068 1.383h.001c5.448 0 9.883-4.437 9.885-9.888.001-2.64-1.03-5.122-2.903-6.994-1.872-1.871-4.352-2.903-6.992-2.904-5.448 0-9.884 4.437-9.886 9.889 0 1.83.504 3.614 1.455 5.16l.237.387-1.01 3.689 3.782-.992zM16.518 13.568c-.284-.141-1.681-.83-1.944-.925-.263-.095-.455-.141-.646.141-.191.283-.741.925-.908 1.114-.167.189-.335.213-.618.072-.284-.141-1.2-.442-2.285-1.411-.844-.753-1.413-1.683-1.579-1.967-.167-.284-.018-.437.123-.578.127-.127.284-.331.426-.496.141-.165.189-.283.284-.472.095-.189.048-.354-.024-.496-.071-.141-.646-1.557-.885-2.13-.232-.56-.47-.483-.646-.492-.167-.008-.358-.01-.55-.01s-.502.071-.765.354c-.263.283-1.004.982-1.004 2.396 0 1.415 1.028 2.784 1.171 2.973.143.189 2.024 3.09 4.899 4.33.684.296 1.218.473 1.634.606.687.218 1.312.187 1.806.114.551-.081 1.681-.687 1.92-1.35.239-.663.239-1.231.167-1.35-.071-.118-.263-.189-.547-.33z"></path></svg>
+</a>
+<!-- Navigation -->
+<header class="h-24 w-full fixed top-0 z-40 bg-white/95 backdrop-blur-md shadow-sm border-b border-outline-variant/10">
+<nav class="flex justify-between items-center w-full px-gutter max-w-container-max mx-auto h-full">
+<div class="flex-shrink-0">
+<a href="#"><img alt="Dr. Bali's Bliss Logo" class="h-16 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AP1WRLtmZOahXxOJ2Vbwe4y18yrP_SuJaQstiLdpGCe_x5fve1COLzEEw8dQw1TkGQLX4qG9dbVLu0hwaPey3-MRNSB-I14ASKNHkHn2m18CizfvmZ9NJKYTkTxMLYyB-pzY4UnDQhm7pJAAdWxwrTbHvHA1LwmfWOsDV9dIv8OcK9bpYwOLgPRL7-7qIGF8jc9CBW8z7GYPDjn6bTnfqiSMYed6pdmrxWaQZ_TlpuK_jVhPaUUehd2azJ8XQA"/></a>
+</div>
+<div class="hidden xl:flex items-center gap-6">
+<a class="font-headline-sm text-body-md text-primary hover:text-terracotta-accent transition-colors" href="#">Home</a>
+<div class="relative nav-item group">
+<button class="font-headline-sm text-body-md text-primary flex items-center gap-1 hover:text-terracotta-accent transition-colors">
+                    Know Us <span class="material-symbols-outlined text-sm">expand_more</span>
+</button>
+<div class="dropdown-menu">
+<a class="block px-6 py-2 text-on-surface-variant hover:bg-surface-container hover:text-primary transition-all" href="#">About Dr. Bali</a>
+<a class="block px-6 py-2 text-on-surface-variant hover:bg-surface-container hover:text-primary transition-all" href="#">About Bliss</a>
+</div>
+</div>
+<div class="relative nav-item group">
+<button class="font-headline-sm text-body-md text-primary flex items-center gap-1 hover:text-terracotta-accent transition-colors">
+                    Our Services <span class="material-symbols-outlined text-sm">expand_more</span>
+</button>
+<div class="dropdown-menu w-[320px] max-h-[60vh] overflow-y-auto">
+<a class="block px-6 py-2 text-sm text-on-surface-variant hover:bg-surface-container hover:text-primary" href="#">Lymphatic Drainage Massage</a>
+<a class="block px-6 py-2 text-sm text-on-surface-variant hover:bg-surface-container hover:text-primary" href="#">Colon Hydrotherapy</a>
+<a class="block px-6 py-2 text-sm text-on-surface-variant hover:bg-surface-container hover:text-primary" href="#">Ozone Therapy</a>
+<a class="block px-6 py-2 text-sm text-on-surface-variant hover:bg-surface-container hover:text-primary" href="#">IV Nutritional Therapy</a>
+<a class="block px-6 py-2 text-sm text-on-surface-variant hover:bg-surface-container hover:text-primary" href="#">Rejuvenation Therapies</a>
+<a class="block px-6 py-2 text-sm text-on-surface-variant hover:bg-surface-container hover:text-primary" href="#">Detox Programs</a>
+<a class="block px-6 py-2 text-sm text-on-surface-variant hover:bg-surface-container hover:text-primary" href="#">Homeopathy</a>
+<a class="block px-6 py-2 text-sm text-on-surface-variant hover:bg-surface-container hover:text-primary" href="#">Naturopathy</a>
+<a class="block px-6 py-2 text-sm text-on-surface-variant hover:bg-surface-container hover:text-primary" href="#">Ayurveda &amp; Panchkarma</a>
+<a class="block px-6 py-2 text-sm text-on-surface-variant hover:bg-surface-container hover:text-primary" href="#">Yoga &amp; Meditation</a>
+<a class="block px-6 py-2 text-sm text-on-surface-variant hover:bg-surface-container hover:text-primary" href="#">Acupuncture</a>
+</div>
+</div>
+<a class="font-headline-sm text-body-md text-primary hover:text-terracotta-accent transition-colors" href="#">Testimonials</a>
+<a class="font-headline-sm text-body-md text-primary hover:text-terracotta-accent transition-colors" href="#">Online Consultation</a>
+<a class="font-headline-sm text-body-md text-primary hover:text-terracotta-accent transition-colors" href="#">Visit Us</a>
+<a class="font-headline-sm text-body-md text-primary hover:text-terracotta-accent transition-colors" href="#">Blogs</a>
+</div>
+<div class="flex items-center gap-4">
+<a class="hidden lg:block px-6 py-3 bg-[#7E8F3C] text-white rounded-md font-label-md text-xs uppercase tracking-[0.1em] hover:brightness-110 transition-all font-bold" href="#consultation">
+                BOOK FREE CONSULTATION TODAY
+            </a>
+<button class="xl:hidden text-primary">
+<span class="material-symbols-outlined text-3xl">menu</span>
+</button>
+</div>
+</nav>
+</header>
+<main class="pt-24">
+<!-- Hero Section -->
+<section class="relative h-[921px] min-h-[700px] flex items-center overflow-hidden transition-all duration-1000 opacity-100 translate-y-0">
+<div class="absolute inset-0 z-0">
+<img alt="Serene nature background" class="w-full h-full object-cover brightness-90" data-alt="A serene, high-end holistic wellness sanctuary interior with lush greenery, soft natural sunlight, and a calm, spiritual atmosphere. The composition features negative space on the left side for text contrast." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAcLCb5pbBWUCfUyV_6yF_9_WQZYksVJFyjPDwtw4wPwDi5gX96HAbxDgyAaQxWH9mx9EHQd7wKbL-BwoBy5itilvfNuf1yrWjEFT4mPxa18ZyHHM0GiYnLCmc9emyXpNdJrB5J22zynrCrwd1TOwhgR_f_L0Bv-ZDumXaDXt1OryP7ryOu-B_1ERtEndwLt4MmGDa4J7Wpk_5wawAAbYpVFAAWQpjfPMSc1Pc-8VE3sYXkFY5gV8DVMHhcaf0hXtJpy99FrWYyovU"/>
+<div class="absolute inset-0 bg-gradient-to-r from-primary/60 via-primary/30 to-transparent"></div>
+</div>
+<div class="relative z-10 px-gutter max-w-container-max mx-auto w-full">
+<div class="max-w-2xl">
+<span class="font-label-md text-label-md tracking-[0.3em] uppercase block mb-4 text-terracotta-accent">Holistic Healers</span>
+<h1 class="font-display-lg text-5xl md:text-6xl leading-[1.1] mb-6 text-white font-bold">Our Unique Concept<br/>of Health</h1>
+<p class="font-body-lg text-body-lg mb-10 max-w-xl text-white/90">
+                        At Bliss Holistic Health Clinic, we believe that health is a harmonious flow of energy. We go beyond symptoms to treat the root cause, combining ancient wisdom with cutting-edge natural therapies.
+                    </p>
+<div class="flex gap-4">
+<button class="px-8 py-4 bg-primary text-white rounded-full font-label-md text-label-md uppercase tracking-widest hover:bg-primary/90 transition-all shadow-xl">Experience Bliss</button>
+<button class="px-8 py-4 border-1.5 rounded-full font-label-md text-label-md uppercase tracking-widest hover:bg-primary/5 transition-all border-white/50 text-white">Our Philosophy</button>
+</div>
+</div>
+</div>
+</section>
+<!-- About Dr. Poonam Bali -->
+<section class="py-section-padding-desktop px-gutter max-w-container-max mx-auto transition-all duration-1000 opacity-100 translate-y-0">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-20 items-center">
+<div class="relative">
+<div class="aspect-[2/3] rounded-lg overflow-hidden shadow-2xl">
+<img alt="Portrait of Dr. Poonam Bali" class="w-full h-full object-cover" data-alt="A professional and warm portrait of a senior female physician in a serene, high-end clinical environment. She is wearing elegant, minimalist attire with a soft smile, conveying authority and compassion. The background is softly blurred, showing hints of botanical plants and warm ivory interiors. The lighting is soft and flattering, emphasizing a mood of trust, wisdom, and holistic luxury." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBxG4UWrUx6LtdfsM1gHkbMnfjv42UxxGcNOcuK1YsC6nldajX85n9cO9MeaZ7PyBSEz2_tmBwpCuGdXlXNnc0rwG2sVX0FVFHS-Z4P6rSMj17lCVo24DxSpTtYmGL-5BPU5DgPpF3KSEwHqi3p1eJ2Azb5oDtUkR8pM29Lk4D76c7MGMQBv5aOXYyHCXWh334zNLyShxMjpZv5SruMpQQgPs_YWVgh5UUf9bwnEi87bexFujA5SOcoq_ewMawcrxli5FDN2ivLzks"/>
+</div>
+<div class="absolute -bottom-10 -right-10 bg-surface-container p-8 rounded-lg shadow-xl hidden lg:block border border-outline-variant/30">
+<p class="font-display-lg text-headline-sm text-primary italic">"Healing is a journey back to oneself."</p>
+</div>
+</div>
+<div>
+<h2 class="font-headline-lg text-headline-lg text-primary mb-8 leading-tight">Guided by Wisdom: <br/>Dr. Poonam Bali</h2>
+<div class="space-y-6 text-on-surface-variant font-body-lg">
+<p class="">Dr. Poonam Bali is a visionary in the field of holistic medicine, blending three decades of clinical practice with a deep spiritual understanding of human wellness.</p>
+<p class="">Her approach is revolutionary: viewing the patient not as a collection of symptoms, but as a complex ecosystem that requires balance, nourishment, and detoxification to thrive in the modern world.</p>
+</div>
+<div class="grid grid-cols-3 gap-8 mt-12 pt-12 border-t border-outline-variant/30">
+<div class="text-center">
+<div class="font-display-lg text-headline-lg text-terracotta-accent mb-2">30+</div>
+<div class="font-label-md text-label-md uppercase text-on-surface-variant">Years Exp.</div>
+</div>
+<div class="text-center">
+<div class="font-display-lg text-headline-lg text-terracotta-accent mb-2">20+</div>
+<div class="font-label-md text-label-md uppercase text-on-surface-variant">Therapies</div>
+</div>
+<div class="text-center">
+<div class="font-display-lg text-headline-lg text-terracotta-accent mb-2">3L+</div>
+<div class="font-label-md text-label-md uppercase text-on-surface-variant">Happy Souls</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Signature Treatments -->
+<section class="bg-surface-container py-section-padding-desktop transition-all duration-1000 opacity-100 translate-y-0">
+<div class="px-gutter max-w-container-max mx-auto text-center mb-20">
+<span class="font-label-md text-label-md text-primary tracking-[0.2em] uppercase">The Bliss Experience</span>
+<h2 class="font-headline-lg text-headline-lg text-primary mt-4">Our Signature Treatments</h2>
+</div>
+<div class="flex overflow-x-auto pb-12 px-gutter space-x-8 scrollbar-hide">
+<!-- Card 1 -->
+<div class="min-w-[320px] bg-surface rounded-lg p-8 shadow-sm hover:shadow-xl transition-all border-t-4 border-terracotta-accent">
+<span class="material-symbols-outlined text-4xl text-terracotta-accent mb-6" data-icon="water_drop">water_drop</span>
+<h3 class="font-headline-sm text-headline-sm text-primary mb-4">Detox your Colon</h3>
+<p class="text-on-surface-variant mb-6 font-body-md">A gentle internal cleansing process to eliminate toxins and restore metabolic harmony.</p>
+<a class="font-label-md text-terracotta-accent border-b border-terracotta-accent/30 pb-1 hover:border-terracotta-accent transition-colors" href="#">READ MORE</a>
+</div>
+<!-- Card 2 -->
+<div class="min-w-[320px] bg-surface rounded-lg p-8 shadow-sm hover:shadow-xl transition-all border-t-4 border-terracotta-accent">
+<span class="material-symbols-outlined text-4xl text-terracotta-accent mb-6" data-icon="air">air</span>
+<h3 class="font-headline-sm text-headline-sm text-primary mb-4">Ozone Therapy</h3>
+<p class="text-on-surface-variant mb-6 font-body-md">Revitalize your cells with oxygen-rich treatments designed to boost immunity and energy.</p>
+<a class="font-label-md text-terracotta-accent border-b border-terracotta-accent/30 pb-1 hover:border-terracotta-accent transition-colors" href="#">READ MORE</a>
+</div>
+<!-- Card 3 -->
+<div class="min-w-[320px] bg-surface rounded-lg p-8 shadow-sm hover:shadow-xl transition-all border-t-4 border-terracotta-accent">
+<span class="material-symbols-outlined text-4xl text-terracotta-accent mb-6" data-icon="biotech">biotech</span>
+<h3 class="font-headline-sm text-headline-sm text-primary mb-4">IV Nutritional Therapy</h3>
+<p class="text-on-surface-variant mb-6 font-body-md">Direct delivery of essential micronutrients for immediate cellular replenishment.</p>
+<a class="font-label-md text-terracotta-accent border-b border-terracotta-accent/30 pb-1 hover:border-terracotta-accent transition-colors" href="#">READ MORE</a>
+</div>
+<!-- Card 4 -->
+<div class="min-w-[320px] bg-surface rounded-lg p-8 shadow-sm hover:shadow-xl transition-all border-t-4 border-terracotta-accent">
+<span class="material-symbols-outlined text-4xl text-terracotta-accent mb-6" data-icon="thermostat">thermostat</span>
+<h3 class="font-headline-sm text-headline-sm text-primary mb-4">Far-Infra Red Sauna</h3>
+<p class="text-on-surface-variant mb-6 font-body-md">Deep penetrating heat that promotes detoxification and intense muscle relaxation.</p>
+<a class="font-label-md text-terracotta-accent border-b border-terracotta-accent/30 pb-1 hover:border-terracotta-accent transition-colors" href="#">READ MORE</a>
+</div>
+<!-- Card 5 -->
+<div class="min-w-[320px] bg-surface rounded-lg p-8 shadow-sm hover:shadow-xl transition-all border-t-4 border-terracotta-accent">
+<span class="material-symbols-outlined text-4xl text-terracotta-accent mb-6" data-icon="spa">spa</span>
+<h3 class="font-headline-sm text-headline-sm text-primary mb-4">Manipulative Body Work</h3>
+<p class="text-on-surface-variant mb-6 font-body-md">Structural realignment through skilled therapeutic touch and ancient techniques.</p>
+<a class="font-label-md text-terracotta-accent border-b border-terracotta-accent/30 pb-1 hover:border-terracotta-accent transition-colors" href="#">READ MORE</a>
+</div>
+</div>
+</section>
+<!-- About the Clinic & Sanctuary -->
+<section class="py-section-padding-desktop transition-all duration-1000 opacity-100 translate-y-0">
+<div class="px-gutter max-w-container-max mx-auto">
+<div class="text-center mb-16">
+<h2 class="font-headline-lg text-headline-lg text-primary">All Under One Roof</h2>
+<div class="w-24 h-1 bg-terracotta-accent mx-auto mt-6"></div>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-12 mb-20">
+<div class="order-2 md:order-1 space-y-8 flex flex-col justify-center">
+<h3 class="font-headline-md text-headline-md text-primary">The Wellness Clinic at Hauz Khas</h3>
+<p class="font-body-lg text-on-surface-variant">Experience wellness in a space designed with Feng Shui principles. Our clinic isn't just a medical facility; it's a healing space surrounded by lush gardens that breathe life into the healing process.</p>
+<div class="bg-surface-container-low p-8 rounded-lg border border-outline-variant/20">
+<h4 class="font-headline-sm text-headline-sm text-primary mb-4">Bliss Home Stay</h4>
+<p class="text-on-surface-variant mb-4">For our out-of-town guests, we offer a boutique residential experience. Stay within the healing energy of the clinic while undergoing intensive therapy protocols.</p>
+<a class="text-primary font-label-md uppercase tracking-widest flex items-center gap-2" href="#">Explore the stay <span class="material-symbols-outlined">arrow_forward</span></a>
+</div>
+</div>
+<div class="order-1 md:order-2 grid grid-cols-2 gap-4">
+<img alt="Clinic Garden" class="w-full h-64 object-cover rounded-lg" data-alt="A beautiful, sun-drenched zen garden within a luxury wellness retreat in New Delhi. The space features lush tropical greenery, manicured pathways, and minimalist stone sculptures. Large glass windows reflect the surrounding foliage, blurring the lines between indoor luxury and outdoor nature. The lighting is warm and golden, highlighting the Feng Shui inspired architecture and peaceful ambiance." src="https://lh3.googleusercontent.com/aida-public/AB6AXuB2zlTmL33pvayjwPTKtfld_9r9vU4rNnXZ255RW32SY2jKx4ULY6cFA2va7nt4QXzvFbWy19sLiVorOH_-c8Q3MJKz7i9ABUArQ_jHQRRJfdE4vWC1xr_E_JkrfjPGfXFHxB2Xd4_5pv_V7OzqXW6KdIHkpBzayDstaeLrnNyJH5CsKWH3gqgbkmpWEzz7akoo3Nfwau4Ys7jLcrVR0FND9YpgtyBFmD6E9AprHR61I3A-fcvhUoUf53O49XfErWJ0koq5j5NfbMU"/>
+<img alt="Stay Interior" class="w-full h-64 object-cover rounded-lg mt-8" data-alt="A high-end boutique bedroom inside a luxury wellness sanctuary. The interior design features warm ivory walls, organic textures like linen and light wood, and a large window overlooking a verdant garden. Minimalist golden accents and botanical art pieces adorn the space, creating a mood of absolute tranquility and sophisticated comfort." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBnwivfIjOmLcoPxTTwi038tDFo7ZRvMtT-uWP5RImqZXnK6uvsKVfnV9ZcmUczRxBYKAuWgNRNSkIir0fXsOPgO1R8yhV3EDv7mWtozj46PDeZxhiS11LhH5phTPFOTxP2CmhVHiywfO8kAmY8tnNKco4E7oIeXxakqZBTWv8d5X7YyvEQtdl5XiI8suK-BRNndILBeB8Kc5-nh9u8USq__MtSc9rcrgrgF0ghDI9tclVcjeT82NzF8IYVc_lzBle_oj1xUX5YiK8"/>
+</div>
+</div>
+</div>
+</section>
+<!-- Conditions Treated -->
+<section class="bg-primary py-section-padding-desktop text-white transition-all duration-1000 opacity-100 translate-y-0">
+<div class="px-gutter max-w-container-max mx-auto">
+<div class="max-w-3xl mb-12">
+<h2 class="font-headline-lg text-headline-lg mb-6">Freedom From Chronic Sickness</h2>
+<p class="font-body-lg opacity-80">Our holistic protocols have successfully reversed chronic conditions for over 3 lakh individuals by addressing cellular health.</p>
+</div>
+<div class="flex flex-wrap gap-4"><span class="px-6 py-3 border border-terracotta-accent/50 rounded-full font-label-md text-label-md uppercase tracking-wider bg-white/5">IBS</span><span class="px-6 py-3 border border-terracotta-accent/50 rounded-full font-label-md text-label-md uppercase tracking-wider bg-white/5">Sinus</span><span class="px-6 py-3 border border-terracotta-accent/50 rounded-full font-label-md text-label-md uppercase tracking-wider bg-white/5">Asthma</span><span class="px-6 py-3 border border-terracotta-accent/50 rounded-full font-label-md text-label-md uppercase tracking-wider bg-white/5">Migraine</span><span class="px-6 py-3 border border-terracotta-accent/50 rounded-full font-label-md text-label-md uppercase tracking-wider bg-white/5">PCOD/PCOS</span><span class="px-6 py-3 border border-terracotta-accent/50 rounded-full font-label-md text-label-md uppercase tracking-wider bg-white/5">Parkinson</span><span class="px-6 py-3 border border-terracotta-accent/50 rounded-full font-label-md text-label-md uppercase tracking-wider bg-white/5">Gut Health</span><span class="px-6 py-3 border border-terracotta-accent/50 rounded-full font-label-md text-label-md uppercase tracking-wider bg-white/5">Alzheimer</span><span class="px-6 py-3 border border-terracotta-accent/50 rounded-full font-label-md text-label-md uppercase tracking-wider bg-white/5">Arthritis</span><span class="px-6 py-3 border border-terracotta-accent/50 rounded-full font-label-md text-label-md uppercase tracking-wider bg-white/5">Gall Stones</span><span class="px-6 py-3 border border-terracotta-accent/50 rounded-full font-label-md text-label-md uppercase tracking-wider bg-white/5">Fatty Liver</span><span class="px-6 py-3 border border-terracotta-accent/50 rounded-full font-label-md text-label-md uppercase tracking-wider bg-white/5">Pain &amp; Aches</span><span class="px-6 py-3 border border-terracotta-accent/50 rounded-full font-label-md text-label-md uppercase tracking-wider bg-white/5">Cardiac Care</span><span class="px-6 py-3 border border-terracotta-accent/50 rounded-full font-label-md text-label-md uppercase tracking-wider bg-white/5">Mental Health</span><span class="px-6 py-3 border border-terracotta-accent/50 rounded-full font-label-md text-label-md uppercase tracking-wider bg-white/5">Skin Diseases</span><span class="px-6 py-3 border border-terracotta-accent/50 rounded-full font-label-md text-label-md uppercase tracking-wider bg-white/5">Cancer Support</span><span class="px-6 py-3 border border-terracotta-accent/50 rounded-full font-label-md text-label-md uppercase tracking-wider bg-white/5">Digestive Issues</span><span class="px-6 py-3 border border-terracotta-accent/50 rounded-full font-label-md text-label-md uppercase tracking-wider bg-white/5">Thyroid Disorders</span><span class="px-6 py-3 border border-terracotta-accent/50 rounded-full font-label-md text-label-md uppercase tracking-wider bg-white/5">Diabetes Reversal</span><span class="px-6 py-3 border border-terracotta-accent/50 rounded-full font-label-md text-label-md uppercase tracking-wider bg-white/5">Anxiety &amp; Depression</span><span class="px-6 py-3 border border-terracotta-accent/50 rounded-full font-label-md text-label-md uppercase tracking-wider bg-white/5">Auto-Immune Conditions</span></div>
+</div>
+</section>
+<!-- Range of Services -->
+<section class="py-section-padding-desktop bg-surface transition-all duration-1000 opacity-100 translate-y-0">
+<div class="px-gutter max-w-container-max mx-auto">
+<h2 class="font-headline-lg text-headline-lg text-primary text-center mb-16">A Symphony of Healing Arts</h2>
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+<!-- Service 1 -->
+<div class="group relative overflow-hidden rounded-lg aspect-[4/5]">
+<img alt="Naturopathy" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" data-alt="A macro photograph of fresh, vibrant medicinal herbs and essential oils in glass vials on a textured stone surface. Soft sunlight illuminates the scene, creating a sense of natural purity and ancient medicinal wisdom. The aesthetic is clean, high-end, and deeply rooted in the principles of Naturopathy." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAW6ReHmRzkUDqXT6Xh1sOknlFQwRUutEnfJr_hJQTcKn-oc81lKJNpWlDV8R0eVTQpS4Mju_QzaT5pzZ2ewvzQv4p0tT7S8Zwnmp0bepn1Gl23VNvNZCfL1Xfu6vpM8-CeTa_DhdBzI1wOG9inHRxj1Q8cGXRo126y8ZxYUI8Ab3AqBhTu0rw5T8VWmpSgjq_GqOSXNKWRGwNrkQdxscN3-vAFRxWQj41T6X_N36H24H-9RXCK_gLtqQoamqUCtI6c60yzhKyB5WE"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/90 via-primary/20 to-transparent p-8 flex flex-col justify-end">
+<h3 class="text-white font-headline-sm mb-2">Naturopathy</h3>
+<p class="text-white/80 font-body-md mb-4">Leveraging the healing power of nature through 5 elements, diet and lifestyle.</p>
+<a class="text-terracotta-accent font-label-md uppercase tracking-widest hover:text-white transition-colors" href="#">Discover More</a>
+</div>
+</div>
+<!-- Service 2 -->
+<div class="group relative overflow-hidden rounded-lg aspect-[4/5]">
+<img alt="Homeopathy" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" data-alt="A minimalist and artistic representation of homeopathic healing. Tiny white globules are elegantly scattered on a dark, polished wood surface, accompanied by a single, delicate dried flower. The lighting is focused and dramatic, highlighting the purity and microscopic precision of the treatment." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAOMvCvshWjPS38HMW0Tx2ZwaHuH2oPT9bRZtlrr_RDah_aAwGWYscvNAVjp2MyJPWa2gueYG6F1mGmSmahnynQ2jeL8RFfsS-X0ZlPgc6uz79aEyt54StamF9K7nq1deaYFnVMWFNNIocdYXAcKKldk8vzcSj_irkmx_kk8tAxJB9sHy6nLDpPb9Rjh6-peihPtWZr6zmFWuxr4ttUZzRvIKbfMps7HDXBx2kxtysBdMEmZ6bXneJG7wB4eIVmxjbSuFyCJlBAME4"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/90 via-primary/20 to-transparent p-8 flex flex-col justify-end">
+<h3 class="text-white font-headline-sm mb-2">Homeopathy</h3>
+<p class="text-white/80 font-body-md mb-4">Subtle energetic healing tailored to your unique constitution.</p>
+<a class="text-terracotta-accent font-label-md uppercase tracking-widest hover:text-white transition-colors" href="#">Discover More</a>
+</div>
+</div>
+<!-- Service 3 -->
+<div class="group relative overflow-hidden rounded-lg aspect-[4/5]">
+<img alt="Acupuncture" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" data-alt="A serene close-up of an acupuncture session in a luxury spa setting. Fine, sterile needles are precisely placed on a person's shoulder, with blurred candles and orchids in the background. The mood is one of profound relaxation and clinical excellence, with a warm ivory and sage green color palette." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAxPbbk4Y6sIswuICs8yaZMNmkBzTw9CvhKM8Smc2zMDVnFYCbs0n0FGZSb_ULEjcS5bxyGO7NO-tQGNz-DbZFW2GICutj14ln-iu9KmBXWoOqSpoNYRiHc7X0_9gxMJ76RsZZFmKunF0RFJsSUvpm-Nj4MAHwyk_KhmnY7mnKreNA8ShT58Eyb5FndbhrUpRXFJcMKuq7zPqZLwSVz5PvA1-6sZlsMwqfLvAs3vrqVSfYwAastkqiCanXxt0WALfLwknf17G3mNS8"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/90 via-primary/20 to-transparent p-8 flex flex-col justify-end">
+<h3 class="text-white font-headline-sm mb-2">Acupuncture</h3>
+<p class="text-white/80 font-body-md mb-4">Restoring the flow of Qi to alleviate pain and restore organ function.</p>
+<a class="text-terracotta-accent font-label-md uppercase tracking-widest hover:text-white transition-colors" href="#">Discover More</a>
+</div>
+</div>
+<!-- Service 4 -->
+<div class="group relative overflow-hidden rounded-lg aspect-[4/5]">
+<img alt="Ayurveda" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" data-alt="A traditional Ayurvedic setting with warm oils being poured from a copper vessel into a stone bowl. Scattered jasmine petals and dark wooden textures create a rich, tactile, and ancient feel. The lighting is soft and flickering, evoking a timeless ritualistic atmosphere of profound healing." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBRzzyCinjA-BpF_26Cos9jrY7bjhfy96gijyu2sSwntUbtlbX52ESUZZhEOSvIJAUn2hkzXpIIJypoYw-bnFVJEPuY9cWXM2hNLj3irEw3RRuI7kP0qNmiYPXAtwTLEKdeZTvlor8P52NeCZi2jHsI5J2QgEv2lBOUARcwkjI6c2IPIPdEO-BfeVTh43G5Upp2WiY70d1SnrrslVYj_3icw_XGyKjqe00wFipJBHlle7sIj25G-pDWPPiIeZVSv_6oLYJF_KGIK4Y"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/90 via-primary/20 to-transparent p-8 flex flex-col justify-end">
+<h3 class="text-white font-headline-sm mb-2">Ayurveda</h3>
+<p class="text-white/80 font-body-md mb-4">Ancient Indian wisdom to balance your doshas and revitalize life force.</p>
+<a class="text-terracotta-accent font-label-md uppercase tracking-widest hover:text-white transition-colors" href="#">Discover More</a>
+</div>
+</div>
+<!-- Service 5 -->
+<div class="group relative overflow-hidden rounded-lg aspect-[4/5]">
+<img alt="Yoga" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" data-alt="A peaceful person practicing yoga in a bright, sunlit studio with high ceilings and light oak floors. Large windows reveal a lush green garden outside. The scene is one of pure balance, flexibility, and spiritual clarity, captured in a minimalist, high-key photography style." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDXIw9o1N9BkmrAI5tAozTJh5TcCXuT7xxFeHx-n8YbStNMyWj6p0g64HBYjcsmiWcG14tRbziAOjulm4jba2T5n_-r66lK8VKQMaVJOj0beA02bi1AKptAvUbHiABisVeqOdayq9aIGr0XXs7Ue1ZMkI_b6v-00KvJo7sQdcFe-blNcR5vslliCop04fBxKNlwjCWKoCmh5zhxbQoJoEWj5Fc6jZOp2LB7J2_Ih6z8sidKlR_s5rVIKCBPCCJ6Lr6fRZiU9RolZ9I"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/90 via-primary/20 to-transparent p-8 flex flex-col justify-end">
+<h3 class="text-white font-headline-sm mb-2">Yoga, Breathwork, &amp; Meditation</h3>
+<p class="text-white/80 font-body-md mb-4">Mind-body practices to enhance mental clarity and physical resilience.</p>
+<a class="text-terracotta-accent font-label-md uppercase tracking-widest hover:text-white transition-colors" href="#">Discover More</a>
+</div>
+</div>
+<!-- Service 6 -->
+<div class="group relative overflow-hidden rounded-lg aspect-[4/5]">
+<img alt="Detox" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" data-alt="A close-up shot of a luxury infrared sauna experience. Soft orange light glows against high-quality cedar wood panels. The scene conveys intense warmth, detoxification, and a high-end spa ambiance that is both modern and soothing." src="https://lh3.googleusercontent.com/aida-public/AB6AXuA6HLPv8qpH4712Abf9M5zVLx_vJd2jT9O13ZEvKBSOYCKogCedsz7augtWvQkG49Yu7DrBwRHo2JBKdFI9agi9SCc8BwfL176dSnG4xRGieITKjp7dohmGVsEjokvFiJl8SVDZOjFe_uNt5xSXNmgxO53TnI6HEQVPrfb8aVOYBcXtqr7MMtFfa_-g6-4h-5hkSf7wsHOLHqmc5GxY5xhEnhkT010xO1D9KnFerWKdCeWKzZ5SVjgDYj3EG2CmoMRsdlhCiEMgrTQ"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/90 via-primary/20 to-transparent p-8 flex flex-col justify-end">
+<h3 class="text-white font-headline-sm mb-2">Colon Cleansing</h3>
+<p class="text-white/80 font-body-md mb-4">Advanced protocols to purge heavy metals and environmental toxins.</p>
+<a class="text-terracotta-accent font-label-md uppercase tracking-widest hover:text-white transition-colors" href="#">Discover More</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Testimonials -->
+<section class="py-section-padding-desktop bg-surface-container overflow-hidden transition-all duration-1000 opacity-100 translate-y-0">
+<div class="px-gutter max-w-container-max mx-auto">
+<div class="text-center mb-16">
+<h2 class="font-headline-lg text-headline-lg text-primary">Guests' Testimonials</h2>
+</div>
+<div class="relative flex overflow-x-auto gap-8 pb-12 snap-x scrollbar-hide">
+<!-- Testimonial 1 -->
+<div class="min-w-full md:min-w-[500px] bg-white p-10 rounded-lg shadow-sm snap-center border border-outline-variant/10">
+<div class="flex items-center gap-4 mb-6">
+<div class="w-16 h-16 rounded-full bg-surface-container flex items-center justify-center font-display-lg text-terracotta-accent">A</div>
+<div>
+<div class="font-headline-sm text-primary">Ananya Sharma</div>
+<div class="text-on-surface-variant text-sm">Chronic Migraine Patient</div>
+</div>
+</div>
+<p class="font-body-lg text-on-surface-variant italic leading-relaxed">"Dr. Bali's approach is transformative. After years of struggling with migraines, her holistic protocol gave me my life back within three months. The sanctuary is a piece of heaven in Delhi."</p>
+</div>
+<!-- Testimonial 2 -->
+<div class="min-w-full md:min-w-[500px] bg-white p-10 rounded-lg shadow-sm snap-center border border-outline-variant/10">
+<div class="flex items-center gap-4 mb-6">
+<div class="w-16 h-16 rounded-full bg-surface-container flex items-center justify-center font-display-lg text-terracotta-accent">M</div>
+<div>
+<div class="font-headline-sm text-primary">Michael Wright</div>
+<div class="text-on-surface-variant text-sm">Executive Wellness</div>
+</div>
+</div>
+<p class="font-body-lg text-on-surface-variant italic leading-relaxed">"The Ozone therapy and nutrition protocol completely changed my energy levels. I've never felt more clear-headed and physically capable. Truly a world-class wellness destination."</p>
+</div>
+</div>
+</div>
+</section>
+<!-- FAQs -->
+<section class="py-section-padding-desktop px-gutter max-w-3xl mx-auto transition-all duration-1000 opacity-100 translate-y-0">
+<h2 class="font-headline-lg text-headline-lg text-primary text-center mb-12">Healing Curiosities</h2>
+<div class="space-y-4">
+<div class="border-b border-terracotta-accent/20 pb-4">
+<button class="w-full flex justify-between items-center py-4 text-left group" onclick="this.nextElementSibling.classList.toggle('hidden'); this.querySelector('.icon').innerHTML = this.nextElementSibling.classList.contains('hidden') ? 'add' : 'close'">
+<span class="font-headline-sm text-primary">What is Holistic Medicine?</span>
+<span class="material-symbols-outlined text-terracotta-accent icon">add</span>
+</button>
+<div class="hidden pt-2 pb-6 text-on-surface-variant font-body-md">
+                        Holistic medicine is a form of healing that considers the whole person—body, mind, spirit, and emotions—in the quest for optimal health and wellness. Our clinic integrates traditional and modern natural therapies to achieve this balance.
+                    </div>
+</div>
+<div class="border-b border-terracotta-accent/20 pb-4">
+<button class="w-full flex justify-between items-center py-4 text-left group" onclick="this.nextElementSibling.classList.toggle('hidden'); this.querySelector('.icon').innerHTML = this.nextElementSibling.classList.contains('hidden') ? 'add' : 'close'">
+<span class="font-headline-sm text-primary">How long is a typical consultation?</span>
+<span class="material-symbols-outlined text-terracotta-accent icon">add</span>
+</button>
+<div class="hidden pt-2 pb-6 text-on-surface-variant font-body-md">
+                        Initial consultations are deep-dive sessions that typically last 45-60 minutes. Dr. Bali reviews your entire medical history, lifestyle, and emotional well-being to craft a personalized healing map.
+                    </div>
+</div>
+<div class="border-b border-terracotta-accent/20 pb-4">
+<button class="w-full flex justify-between items-center py-4 text-left group" onclick="this.nextElementSibling.classList.toggle('hidden'); this.querySelector('.icon').innerHTML = this.nextElementSibling.classList.contains('hidden') ? 'add' : 'close'">
+<span class="font-headline-sm text-primary">Do you offer online sessions?</span>
+<span class="material-symbols-outlined text-terracotta-accent icon">add</span>
+</button>
+<div class="hidden pt-2 pb-6 text-on-surface-variant font-body-md">
+                        Yes, we offer comprehensive online video consultations for patients worldwide who cannot visit our Delhi sanctuary in person.
+                    </div>
+</div>
+</div>
+</section>
+<!-- Get In Touch -->
+<section class="py-section-padding-desktop bg-primary text-white transition-all duration-1000 opacity-100 translate-y-0" id="consultation">
+<div class="px-gutter max-w-container-max mx-auto grid grid-cols-1 md:grid-cols-2 gap-20">
+<div>
+<h2 class="font-headline-lg text-headline-lg mb-8">Begin Your Journey to Bliss</h2>
+<p class="font-body-lg opacity-80 mb-12">Visit us at our Delhi sanctuary or reach out for a virtual assessment. Your path to true health starts with a single conversation.</p>
+<div class="space-y-8">
+<div class="flex items-start gap-4">
+<span class="material-symbols-outlined text-terracotta-accent">location_on</span>
+<div>
+<div class="font-headline-sm text-white mb-2">Our Address</div>
+<p class="opacity-70">X-23 Near NIFT, Hauz Khas,<br/>New Delhi, 110016, India</p>
+</div>
+</div>
+<div class="flex items-start gap-4">
+<span class="material-symbols-outlined text-terracotta-accent">call</span>
+<div>
+<div class="font-headline-sm text-white mb-2">Phone</div>
+<p class="opacity-70">+91 98104-69956</p>
+</div>
+</div>
+<div class="flex items-start gap-4">
+<span class="material-symbols-outlined text-terracotta-accent">mail</span>
+<div>
+<div class="font-headline-sm text-white mb-2">Email</div>
+<p class="opacity-70">contact@drbalisbliss.com</p>
+</div>
+</div>
+</div>
+</div>
+<div class="bg-surface p-10 rounded-lg text-on-surface shadow-2xl">
+<form class="space-y-6">
+<div class="grid grid-cols-2 gap-6">
+<div class="space-y-2">
+<label class="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant">Your Name</label>
+<input class="w-full bg-transparent border-b border-primary/20 py-3 focus:border-primary outline-none transition-colors" type="text"/>
+</div>
+<div class="space-y-2">
+<label class="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant">Phone Number</label>
+<input class="w-full bg-transparent border-b border-primary/20 py-3 focus:border-primary outline-none transition-colors" type="tel"/>
+</div>
+</div>
+<div class="space-y-2">
+<label class="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant">Inquiry Type</label>
+<select class="w-full bg-transparent border-b border-primary/20 py-3 focus:border-primary outline-none transition-colors">
+<option>Consultation Request</option>
+<option>Bliss Stay Inquiry</option>
+<option>Treatment Details</option>
+</select>
+</div>
+<div class="space-y-2">
+<label class="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant">Your Message</label>
+<textarea class="w-full bg-transparent border-b border-primary/20 py-3 focus:border-primary outline-none transition-colors resize-none" rows="4"></textarea>
+</div>
+<button class="w-full bg-primary text-white py-4 rounded-full font-label-md uppercase tracking-[0.2em] hover:bg-primary/90 transition-all mt-4" type="submit">Send Message</button>
+</form>
+</div>
+</div>
+</section>
+</main>
+<!-- Footer -->
+<footer class="bg-surface-container dark:bg-surface-dim full-width rounded-t-lg">
+<div class="w-full py-section-padding-desktop px-gutter max-w-container-max mx-auto grid grid-cols-1 md:grid-cols-4 gap-12">
+<div class="md:col-span-1">
+<span class="font-display-lg text-headline-md text-primary mb-6 block">Dr. Bali's Bliss</span>
+<p class="text-on-surface-variant font-body-md mb-6">Ancient wisdom meeting modern luxury to restore your health naturally.</p>
+<div class="flex gap-4">
+<a class="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center text-primary hover:bg-primary hover:text-white transition-all" href="#"><span class="material-symbols-outlined text-lg">share</span></a>
+<a class="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center text-primary hover:bg-primary hover:text-white transition-all" href="#"><span class="material-symbols-outlined text-lg">public</span></a>
+</div>
+</div>
+<div>
+<h4 class="font-label-md text-primary uppercase tracking-widest mb-6">Our Clinic</h4>
+<ul class="space-y-4">
+<li class=""><a class="text-on-surface-variant hover:text-terracotta-accent transition-colors duration-300" href="#">About Us</a></li>
+</ul></div></div></footer></body></html>
