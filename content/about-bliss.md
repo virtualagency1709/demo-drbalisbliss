@@ -8,9 +8,12 @@
 
 ## Meta / SEO
 
-- **Page title (browser tab):** `About Bliss – Dr. Bali's 'Bliss' Holistic Health Center`
-- **Meta description:** ⚠️ NOT captured — not present in rendered HTML. **TODO:** pull from live `<head>` / Yoast (View Source → `<meta name="description">`).
-- **Open Graph (og:title / og:description):** ⚠️ NOT captured. **TODO:** confirm from live source.
+- **Page title (`<title>`):** `About Bliss – Dr. Bali's 'Bliss' Holistic Health Center`
+- **Meta description:** `Discover the story behind Dr. Bali's 'Bliss' — a holistic health center where modern science meets natural healing. Learn about our journey, philosophy, and expert team.`
+- **og:title:** `About Bliss – Dr. Bali's 'Bliss' Holistic Health Center`
+- **og:description:** `Discover the story behind Dr. Bali's 'Bliss' — a holistic health center where modern science meets natural healing. Learn about our journey, philosophy, and expert team.`
+- **Canonical URL:** `https://drbalisbliss.com/about-bliss/` ← **keep this exact URL (or 301-map it) on the redesigned site.**
+- Built with WordPress + Elementor.
 
 ---
 
@@ -47,16 +50,16 @@ Start your journey of transformation with 'Bliss', where holistic healing and cu
 ---
 
 ### Stats / Counters
-> ⚠️ The live site uses animated counters that render as `0` in HTML; the real target numbers were **not** captured. **TODO:** confirm exact figures from the live site or from Dr. Bali.
+> Recovered from the Elementor counter `data-to-value` attributes in the raw HTML.
 
-- **Happy Clients:** `____ +`
-- **Unexpected Recoveries:** `____'s`
-- **Years of Experience:** `____`  *(note: founded 1996 → ~30 years as of 2026)*
+- **300,000+** Happy Clients
+- **1,000's** Of Unexpected Recoveries
+- **29** Years of Experience  *(live value = 29; founded 1996, so ~30 in 2026 — confirm whether to refresh)*
 
 ---
 
 ### Happy Clients
-*(Testimonials section — heading present on page. Individual testimonial text was not rendered in the extraction; pulls dynamically. **TODO:** preserve individual testimonials separately if needed.)*
+*(Testimonials section. The individual reviews are loaded by an external widget (e.g. Google reviews) and are **not** in the page's HTML source, so they can't be preserved from here. **TODO:** export the testimonials from the widget/Google Business Profile if they should be carried over.)*
 
 CTA button: **VIEW TESTIMONIALS**
 
@@ -133,9 +136,28 @@ With compassion, expertise, and a focus on your unique needs, we're committed to
 
 ---
 
+## Image `alt` text on the page
+> Preserve these (and the underlying images) for content/SEO parity.
+
+- `Holistic wellness centre reception`
+- `Holistic wellness centre team`
+- `Holistic wellness centre`
+- `about-bliss`
+- `Integrative Holistic Approach`
+- `Ozone Clinic in Delhi`
+- `Rectal Ozone Therapy`
+- `IMG-20250920-WA0012`
+- `IMG-20250922-WA0033`
+- `IMG_8648`
+- `WhatsApp Image 2025-09-05 at 10.59.38_b47f216f`
+
+*(The last four are raw filenames used as alt text — opportunity to improve them with descriptive, keyword-relevant alt during the redesign.)*
+
+---
+
 ## Outstanding TODOs to fully preserve this page
-1. Meta description + Open Graph tags (from live `<head>` / View Source).
-2. Exact counter numbers for Happy Clients, Unexpected Recoveries, Years of Experience.
-3. Individual testimonial entries (text + names) from the "Happy Clients" section.
-4. Image assets + their `alt` text used on the page (none were exposed in extraction).
-5. The current live **URL** (`/about-bliss/`) — keep it identical (or 301-map it) when this page is rebuilt.
+1. ~~Meta description + Open Graph tags~~ ✅ recovered.
+2. ~~Counter numbers~~ ✅ recovered (300,000+ / 1,000's / 29).
+3. **Individual testimonials** — loaded via external widget; export separately if needed.
+4. **Download the actual image files** used on the page (alt text captured above; binaries not yet saved).
+5. Keep the live **URL** `/about-bliss/` identical (or 301-map it) when this page is rebuilt.
