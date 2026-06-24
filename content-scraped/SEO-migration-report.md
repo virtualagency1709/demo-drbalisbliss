@@ -1,9 +1,9 @@
 # SEO Content Migration Report — Dr. Bali's Bliss
 
-**Live site:** https://drbalisbliss.com/
-**New (demo) site:** https://demo-drbalisbliss.vercel.app/
+**Production domain (unchanged):** https://drbalisbliss.com/  ← the rebuilt site launches here, on the **same existing domain**.
+**Staging only:** https://demo-drbalisbliss.vercel.app/  ← temporary preview for design, content migration, QA and client approval. Not the final address.
 **Date:** 2026-06-24
-**Status:** ✅ Content migration complete — every page on the new site is built from real scraped content. No placeholder or dummy copy remains.
+**Status:** ✅ Content migration complete — every page on the new site is built from real scraped content. No placeholder or dummy copy remains. Internal links are all relative, so they resolve to `drbalisbliss.com` automatically once deployed (no Vercel URLs anywhere in the site).
 
 ---
 
@@ -41,7 +41,7 @@ Disclaimer, Privacy Policy, Terms & Conditions.
 ## 3. SEO value preserved
 
 1. **Verbatim content** — Treatment names, service descriptions, FAQs, testimonials and body copy were migrated word-for-word from the live site, preserving keyword coverage and topical depth.
-2. **Canonical tags** — Every migrated page declares `<link rel="canonical">` pointing to its original live URL. This prevents the demo from competing with the production domain in search **while the demo is a staging copy**. ⚠️ **These canonicals must be switched to the new domain's own URLs when this becomes the live production site** (see §6).
+2. **Canonical tags** — Every migrated page declares `<link rel="canonical">` pointing to its **current live URL on drbalisbliss.com**. This is correct **while on staging** — it keeps the Vercel preview from competing in search and consolidates to the page already indexed on the live domain. ⚠️ **The domain does not change.** But because the **URL slugs change** in the rebuild, at launch each page's canonical must become **self-referential to its own new URL** on drbalisbliss.com (e.g. `/iv-nutritional-therapy-delhi/` → `/service/iv-therapy.html`), paired with a 301 from the old URL (see §6 and [redirects-301.md](redirects-301.md)).
 3. **Meta titles & descriptions** — Each page has a unique, keyword-relevant `<title>` and `meta description` (captured in each `.md` header).
 4. **Heading hierarchy** — Clean H1 → H2 → H3 structure on every page (one H1 per page), improving crawlability and readability.
 5. **Service & condition keywords** — Location terms ("South Delhi", "Hauz Khas", "Delhi", "India") and treatment terms (GERD, acid reflux, fatty liver, gallstones, IBS, ozone, colon hydrotherapy, IV/glutathione, Ayurveda, Panchakarma, etc.) retained throughout.
@@ -76,14 +76,16 @@ No other content gaps were found: the new site already mirrors the live site's f
 
 ---
 
-## 6. Pre-go-live checklist (when the demo becomes production)
+## 6. Go-live checklist (deploying the new build onto the SAME domain — drbalisbliss.com)
 
-1. **Flip canonicals** — Replace all `canonical` URLs (currently → `drbalisbliss.com`) with the new production domain's own page URLs. *(Leaving them pointed at the old domain after launch would de-index the new site.)*
-2. **301 redirect map** — Implement permanent redirects from every old live URL to its new URL using `content-mapping.md` as the source. Preserves link equity and rankings.
-3. **XML sitemap** — Generate and submit a `sitemap.xml` covering all 95 pages.
+> The domain stays **https://drbalisbliss.com/**. Vercel is only staging. At cutover, the new static build replaces the current site on the existing domain. Because slugs changed, the steps below preserve all SEO equity.
+
+1. **Self-reference the canonicals** — In the production build, rewrite each page's `<link rel="canonical">` from the *old* live URL to **its own new URL** on drbalisbliss.com (self-canonical). *(Do this only for the production deploy — the current staging canonicals → existing live URLs are intentional and should stay while on Vercel.)*
+2. **301 redirect map** — Implement the **93 permanent redirects** in [redirects-301.md](redirects-301.md) (old slug → new slug, same domain) so existing rankings, backlinks and bookmarks transfer. Ready-made Nginx and Apache rule blocks are included there. The home page (`/`) is unchanged and needs no redirect.
+3. **XML sitemap** — Generate and submit a `sitemap.xml` (all 95 pages, new URLs) to Google Search Console.
 4. **Structured data** — Add `LocalBusiness` / `MedicalBusiness` schema (name, address in Hauz Khas, phone, hours, services) and `Article` schema on blog posts.
 5. **Build the Conditions page** — Publish `/conditions-treated.html` from `conditions-treated.md`.
-6. **Verify** — Re-crawl with Search Console; confirm titles, descriptions, canonicals and redirects resolve correctly.
+6. **Verify** — After cutover, re-crawl in Search Console; confirm each new URL returns 200, old URLs 301 to the right target, and every canonical is self-referential.
 
 ---
 
@@ -94,7 +96,8 @@ No other content gaps were found: the new site already mirrors the live site's f
 | Scraped page Markdown | `/content-scraped/*.md` (36 core/service + legal) |
 | Blog Markdown | `/content-scraped/blogs/*.md` (60) |
 | Organized images | `/content-scraped/assets/` (41) |
-| URL mapping | `/content-scraped/content-mapping.md` |
+| URL mapping (old live → new) | `/content-scraped/content-mapping.md` |
+| 301 redirect map (+ Nginx/Apache rules) | `/content-scraped/redirects-301.md` |
 | Conditions page content | `/content-scraped/conditions-treated.md` |
 | This report | `/content-scraped/SEO-migration-report.md` |
 

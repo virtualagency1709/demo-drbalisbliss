@@ -1,17 +1,18 @@
 # Content Mapping — Dr. Bali's Bliss Migration
 
-> Live site: **https://drbalisbliss.com/**  →  Demo: **https://demo-drbalisbliss.vercel.app/**
-> Every row links the original (live) URL to its migrated page on the new site and the scraped Markdown source in this folder.
-> Total pages migrated: **94** (core 9, services 22, blog posts 60, legal 3).
+> **Domain is unchanged:** the rebuilt site launches on the **same existing domain — https://drbalisbliss.com/**.
+> The **Vercel URL (https://demo-drbalisbliss.vercel.app/) is staging only** — for design, content migration, QA and approval. It is never the final address.
+> Columns below: the page's **current live URL**, its **new URL on drbalisbliss.com after launch** (relative to the domain — the site uses relative internal links, so these paths work identically on staging and production), and the **scraped Markdown source** in this folder.
+> Where the new URL differs from the old, a **301 redirect** is required at launch — see [redirects-301.md](redirects-301.md).
+> Totals: **94** pages (core 9, services 22, blog 60, legal 3).
 
 ## Core pages
-
-| Current URL (live) | New page (demo) | Scraped source |
+| Current live URL | New URL (drbalisbliss.com) | Scraped source |
 |---|---|---|
 | `/` | `/homepage/index.html` | [home.md](home.md) |
-| `/about-dr-bali/` | `/about-dr-bali.html` | [about-dr-bali.md](about-dr-bali.md) |
 | `/about-bliss/` | `/about-bliss.html` | [about-bliss.md](about-bliss.md) |
-| `(no canonical)` | `/services.html` | [services.md](services.md) |
+| `/about-dr-bali/` | `/about-dr-bali.html` | [about-dr-bali.md](about-dr-bali.md) |
+| `(none)` | `/services.html` | [services.md](services.md) |
 | `/testimonials/` | `/testimonials.html` | [testimonials.md](testimonials.md) |
 | `/consultation/` | `/consultation.html` | [online-consultation.md](online-consultation.md) |
 | `/faqs/` | `/faqs.html` | [faq.md](faq.md) |
@@ -19,8 +20,7 @@
 | `/blogs/` | `/blogs.html` | [blogs-index.md](blogs-index.md) |
 
 ## Service pages
-
-| Current URL (live) | New page (demo) | Scraped source |
+| Current live URL | New URL (drbalisbliss.com) | Scraped source |
 |---|---|---|
 | `/acupuncture/` | `/service/acupuncture.html` | [acupuncture.md](acupuncture.md) |
 | `/ayurveda-panchkarma/` | `/service/ayurveda.html` | [ayurveda-panchakarma.md](ayurveda-panchakarma.md) |
@@ -46,16 +46,14 @@
 | `/yoga-meditation/` | `/service/yoga.html` | [yoga-meditation.md](yoga-meditation.md) |
 
 ## Legal pages
-
-| Current URL (live) | New page (demo) | Scraped source |
+| Current live URL | New URL (drbalisbliss.com) | Scraped source |
 |---|---|---|
 | `/disclaimer/` | `/disclaimer.html` | [legal-disclaimer.md](legal-disclaimer.md) |
 | `/privacy-policy/` | `/privacy-policy.html` | [legal-privacy-policy.md](legal-privacy-policy.md) |
 | `/terms-and-conditions/` | `/terms-and-conditions.html` | [legal-terms-and-conditions.md](legal-terms-and-conditions.md) |
 
 ## Blog posts (60)
-
-| Current URL (live) | New page (demo) | Scraped source |
+| Current live URL | New URL (drbalisbliss.com) | Scraped source |
 |---|---|---|
 | `/blogs/a-complete-guide-to-choosing-fatty-liver-treatment-service-in-india/` | `/blog/a-complete-guide-to-choosing-fatty-liver-treatment-service-in-india.html` | [blogs/a-complete-guide-to-choosing-fatty-liver-treatment-service-in-india.md](blogs/a-complete-guide-to-choosing-fatty-liver-treatment-service-in-india.md) |
 | `/blogs/acid-reflux-massage-therapy-delhi/` | `/blog/acid-reflux-massage-therapy-delhi.html` | [blogs/acid-reflux-massage-therapy-delhi.md](blogs/acid-reflux-massage-therapy-delhi.md) |
