@@ -1,6 +1,6 @@
 <!--
 Source (live): https://drbalisbliss.com/ayurveda-panchkarma/
-Demo page:     https://demo-drbalisbliss.vercel.app/service/ayurveda.html
+Demo page:     /service/ayurveda.html
 Title:         Ayurveda & Panchkarma in Delhi | Dr. Bali's Bliss
 Meta:          Authentic Ayurveda & Panchkarma at Dr. Bali's Bliss, Delhi — dosha-balancing therapies like Abhyangam, Shirodhara and Panchkarma detox for deep cleansing and lasting balance.
 -->
@@ -13,83 +13,97 @@ Authentic, ancient Ayurvedic therapies that balance your doshas and promote a lo
 
 Book a Free ConsultationLearn More
 
-Understanding the Therapy
+Knowledge of Life
 
-## What is Ayurveda & Panchkarma?
+## Ayurveda & Panchkarma
 
-Our centre offers authentic ancient Ayurvedic therapies within a holistic health context. We identify and balance the three doshas — pitta, kapha and vata — through personalised treatments combining diet, lifestyle adjustments and therapeutic interventions.
+Ayurveda, the ‘Knowledge of Life’, is an ancient heritage of the Indian system of herbal medicine, derived from the classical scriptures — Charaka Samhita, Sushruta Samhita, Bhela Samhita and Ashtanga Hridayam.
 
-Services integrate naturopathy, nutrition, yoga and meditation for comprehensive healing across physical, mental and emotional dimensions.
+Ayurvedic treatment identifies the tridoshas — pitta, kapha and vata — and restores balance by aligning diet and lifestyle with Ayurvedic principles and therapies. At Bliss, we don’t just treat symptoms; we look for the missing pieces of the puzzle and begin our work there, within a holistic health context.
 
-What's Offered
+What We Treat
 
-## Therapies Included
-Abhyangam Massage (synchronised oil therapy)
-Shirodhara (oil stream on the forehead)
-Herbal Potli Massage (medicated hot oil pouch)
-Takradhara (buttermilk therapy)
-Panchkarma detoxification procedures
-Why Choose This Therapy
+## Conditions We Support
+Chronic fatigue, PCOS and thyroid conditionsDigestive disorders, IBS and aciditySkin conditions such as psoriasisStress, anxiety and insomniaJoint pain, arthritis and backacheDetox, weight balance and preventive care
+Our Therapies
 
-## Key Benefits
+## Ayurvedic Therapies at 'Bliss'
 
-### Deep Detox
+### Abhyangam Massage
 
-Panchkarma cleansing eliminates toxins.
+A synchronised full-body massage by two therapists with Ayurvedic oil — reduces stress, improves circulation and relaxes taut muscles.
 
-### Better Digestion
+### Shirodhara
 
-Improves digestion and metabolism.
+A continuous stream of warm oil gently swayed on the forehead to relax the nervous system — beneficial for hypertension, anxiety, insomnia, headache and migraine.
 
-### Enhanced Immunity
+### Herbal Potli Massage
 
-Strengthens natural immunity.
+Medicated hot oil applied with a pouch of herbal blend to de-stress strained muscles and relieve painful knees, shoulders and lower back.
 
-### Mind-Body Balance
+### Takradhara
 
-Relieves stress and restores balance.
+A cooling stream of medicated buttermilk poured over the forehead — calms the mind and helps headaches, insomnia, anxiety, psoriasis and premature greying.
 
-What To Expect
+Panchkarma
 
-## Your Healing Journey
-1
+## What We Offer
 
-### Consultation
+Panchkarma is five cleansing techniques that detoxify and purify, balancing the tridoshas from the inside out.
 
-A one-on-one assessment with Dr. Bali to understand your health history and goals.
-2
+### Doctor-Led Consultations
 
-### Personalised Plan
+Every journey begins with a detailed assessment of your constitution (prakriti), imbalances (vikriti) and lifestyle.
 
-A plan tailored precisely to your needs, constitution and objectives.
-3
+### Personalised Panchkarma Detox
 
-### Treatment
+Individualised Vamana, Virechana, Basti, Nasya and Raktamokshana therapies to cleanse and rejuvenate.
 
-Your therapy in our serene, hygienic sanctuary under expert supervision.
-4
+### Holistic Integration
 
-### Ongoing Care
+Therapies combined with naturopathy, nutrition, yoga and meditation for healing on physical, mental and emotional levels.
 
-Follow-up and lifestyle guidance so your results last.
+### Natural, Authentic & Safe
 
-## Ayurveda & Panchkarma FAQs
+Time-tested herbs, classical formulations and pure oils ensure safety and efficacy in every treatment.
+
+### Healing Environment
+
+Treatments in a peaceful, hygienic and spiritually uplifting setting that supports the body's natural intelligence.
+
+Treatments & Pricing
+
+## Panchkarma Treatments & Pricing
+| | Treatment | Price | Duration |
+| Patra Oil Potli | ₹ 2,500 | 70 min |
+| Dry Herbal Potli | ₹ 2,200 | 60 min |
+| Salt Potli | ₹ 2,200 | 60 min |
+| Foot Potli / Back Potli | ₹ 1,250 | 25 min |
+| Udvardhanam Detox Powder Therapy (weight loss & body pain) | ₹ 2,500 | 60 min |
+| Shirodhara (mind detox & nerve energiser) | ₹ 2,500 | 60 min |
+| Abhyanga Invigorating Oil Therapy | ₹ 2,000 | 60 min |
+| Pad Abhyangam | ₹ 1,200 | 20 min |
+| Panchkarma — Full Body Purification | ₹ 4,500 onward / day | 3–14 days |
+| Tummy Tuck — Fat Loss (any area) | ₹ 1,500 | 25 min |
+| Joint Pain Relief (Kati / Janu / Greva Basti) | ₹ 1,000–1,500 | 20–25 min |
+
+## Frequently Asked Questions
 
 **Q: What is Panchkarma?**
 
-A deep Ayurvedic detox therapy involving five cleansing procedures to eliminate toxins and restore dosha balance.
+A deep Ayurvedic detox therapy involving five cleansing procedures to eliminate toxins (ama) and restore dosha balance.
 
 **Q: What treatments are included?**
 
-Abhyanga, Shirodhara, Vasti, Nasya and Pinda Sweda.
+Abhyanga (oil massage), Shirodhara, Basti (medicated enema), Nasya (nasal therapy) and herbal Potli (Pinda Sweda) massage, among others.
 
 **Q: What are the benefits?**
 
-Detoxification, improved digestion, enhanced immunity, stress relief and mind-body balance.
+Supports detoxification, improves digestion, enhances immunity, relieves stress and balances mind-body energy.
 
 **Q: Who is it suitable for?**
 
-Those with chronic stress, digestive issues, joint pain, fatigue, or seeking seasonal cleansing.
+Ideal for those with chronic stress, digestive issues, joint pain or fatigue, or anyone seeking a seasonal cleanse.
 
 ## Book Your Consultation
 

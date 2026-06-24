@@ -1,6 +1,6 @@
 <!--
 Source (live): https://drbalisbliss.com/homeopathy/
-Demo page:     https://demo-drbalisbliss.vercel.app/service/homeopathy.html
+Demo page:     /service/homeopathy.html
 Title:         Homeopathy in Delhi | Dr. Bali's Bliss
 Meta:          Homeopathy at Dr. Bali's Bliss, Delhi — gentle, natural remedies that treat the root cause and stimulate self-healing, with 30+ years of expertise and online consultations.
 -->
@@ -13,67 +13,55 @@ Gentle, individualised natural remedies based on 'like cures like' — strengthe
 
 Book a Free ConsultationLearn More
 
-Understanding the Therapy
+Act on the Root Cause
 
-## What is Homeopathy?
+## Healing with Homeopathy
 
-Dr. Poonam Bali provides homeopathic care based on the principle of Similia Similibus Curantur — 'like cures like'. The practice uses diluted natural remedies to strengthen the body's immune system and stimulate self-healing.
+Homeopathy is a science rooted in the principle of ‘Similia Similibus Curentur’ — like cures like. Remedies are prepared through potentisation, enhancing their dynamic power to combat disease by strengthening the body’s immune system.
 
-Dr. Bali offers personalised treatment combining homeopathy with complementary therapies, serving patients globally through online consultations.
+Derived from plants and minerals, these remedies stimulate the body’s natural ability to heal, rejuvenate and build resistance against future illness. Founded by Dr. Samuel Hahnemann, homeopathy is gentle, safe and free from side effects.
 
-Why Choose This Therapy
+Dr. Poonam Bali is dedicated to integrative health care through homeopathy — delivering permanent cures while fostering trust and lifelong relationships with her patients.
 
-## Key Benefits
+How She Works
 
-### Natural & Non-Invasive
+## Dr. Bali's Unique Approach
 
-Gentle healing without side effects.
+### Compassionate Care
 
-### Chronic Conditions
+Understanding and compassionate, creating a welcoming, healing environment.
 
-Helps autoimmune disease, allergies, skin and hormonal issues.
+### Child-Friendly
 
-### Safe for All Ages
+Specialises in child-friendly care, with staff trained to support every patient.
 
-Safe for everyone, including children.
+### Best Methods + Positive Energy
 
-### 30+ Years' Expertise
+Combines top homeopathic methods with positive-energy techniques to enhance health.
 
-An integrated, holistic approach.
+Focus Areas
 
-### Affordable
+## Conditions Dr. Bali Addresses
+CancerArthritisAutoimmune diseasesAllergiesHypertensionDiabetesSkin disordersChronic issues like piles & kidney stonesPollution-related illnesses
+An Alternative Approach
 
-An affordable alternative to hospital treatment.
+## Gentle, Preventive & Affordable
 
-### Personalised Care
+Dr. Bali advocates homeopathy as a preventive and affordable alternative to expensive, invasive hospital treatment. Homeopathic remedies work holistically — starting with the mind and extending to physical health.
 
-Close, individual follow-up.
+They are effective for conditions often deemed untreatable by allopathy, such as autoimmune diseases, skin disorders and chronic issues like piles or kidney stones. Unlike steroids, homeopathic medicines are free from side effects and don’t compromise the body’s health.
 
-What To Expect
+A simple guideline: avoid strong odours like garlic or onion to preserve a remedy’s efficacy, and keep a 15–30 minute gap between food and medication. Homeopathy can also complement allopathy, allowing the gradual withdrawal of chemical-based drugs as improvement occurs.
 
-## Your Healing Journey
-1
+From Anywhere
 
-### Consultation
+## Online Consultation & Treatment
 
-A one-on-one assessment with Dr. Bali to understand your health history and goals.
-2
+For outstation and global patients, a detailed questionnaire is sent to be filled in, followed by online consultation through email, video and audio calls. Online payment is then registered and medicines are couriered with detailed instructions on their administration and diet.
 
-### Personalised Plan
+Close follow-up is done by Dr. Poonam Bali and her team until full cures are achieved. Book an appointment with one of the best homeopathic doctors in Delhi — anytime, from anywhere.
 
-A plan tailored precisely to your needs, constitution and objectives.
-3
-
-### Treatment
-
-Your therapy in our serene, hygienic sanctuary under expert supervision.
-4
-
-### Ongoing Care
-
-Follow-up and lifestyle guidance so your results last.
-
-## Homeopathy FAQs
+## Frequently Asked Questions
 
 **Q: What is homeopathy?**
 

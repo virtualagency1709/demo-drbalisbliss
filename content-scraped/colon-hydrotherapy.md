@@ -1,6 +1,6 @@
 <!--
 Source (live): https://drbalisbliss.com/colon-hydrotherapy/
-Demo page:     https://demo-drbalisbliss.vercel.app/service/colon-hydrotherapy.html
+Demo page:     /service/colon-hydrotherapy.html
 Title:         Colon Hydrotherapy in Delhi | Dr. Bali's Bliss
 Meta:          Colon hydrotherapy at Dr. Bali's Bliss, Delhi — a safe, natural way to detox the colon and relieve constipation and gastrointestinal issues using FDA-approved equipment and ozonized water.
 -->
@@ -17,75 +17,109 @@ Understanding the Therapy
 
 ## What is Colon Hydrotherapy?
 
-Colon hydrotherapy or cleansing is the best and most effective way to detox the body — the colon is the main sewer of waste accumulation. When it isn't cleansed fully due to inactivity or sluggishness, toxins travel through the bloodstream and cause issues like constipation, acidity, a bloated abdomen, water retention, fatigue, disturbed sleep, bad breath and body aches.
+Colon hydrotherapy — also called colonic irrigation — is a long-term and highly effective way to treat constipation and gastrointestinal issues. It is widely regarded as the best and most effective way to detox the body, since the colon is the main waste-accumulation site.
 
-The treatment involves three 40-minute sessions completed over 3–6 days, combined with supportive therapies like homeopathy and diet counselling, using FDA-approved equipment, international hygiene standards and filtered, ozonized water.
+When the colon isn’t fully cleansed each day — due to inactivity, poor diet or stress — toxins travel back into the bloodstream, potentially causing constipation, acidity, bloating, burping, water retention, fatigue, lethargy, weight gain, sleep disturbances, bad breath, body odour and aches.
+
+Our safe, non-invasive sessions cleanse your colon, removing toxins and improving nutrient absorption, metabolism and energy levels — supported by holistic approaches like Ayurveda, naturopathy and homeopathy.
 
 Why Choose This Therapy
 
-## Key Benefits
+## The Benefits
 
-### More Energy & Better Sleep
+### Immediate Energy
 
-Improved energy levels and deeper, better sleep.
+Better energy, improved sleep, balanced weight, clearer skin and boosted immunity.
 
-### Clearer Skin
+### Detoxified System
 
-Clearer skin and enhanced natural immunity.
+A detoxified digestive system, enhanced metabolism and reduced bloating.
 
-### Less Bloating
+### Weight Management
 
-Reduced bloating and sustainable weight management.
-
-### Better Metabolism
-
-Enhanced metabolism and digestion.
+Reduces bloating and promotes metabolism for sustainable weight management.
 
 ### Stronger Immunity
 
-Helps prevent chronic digestive issues.
+Helps prevent chronic gastrointestinal issues and boosts immunity.
 
-### Safe & Natural
+### Better Absorption
 
-FDA-approved equipment with filtered, ozonized water.
+Improves nutrient absorption and overall wellness.
 
-What To Expect
+### Lighter & Rejuvenated
 
-## Your Healing Journey
-1
+Most clients feel lighter and rejuvenated immediately after a session.
 
-### Consultation
+What It Addresses
 
-A one-on-one assessment with Dr. Bali to understand your health history and goals.
-2
+## Toxic Conditions It Helps
+Constipation & Irritable Bowel Syndrome (IBS)Abdominal gas & bloatingInternal parasites and wormsDiarrhoeaFluid retentionMenstrual problemsHeadaches & migraineColitisChronic fatigueAsthmaAllergies & skin rashHypertension & stressAcne, eczema & psoriasisBackache & joint painsInsomnia & depression
+Your Options
 
-### Personalised Plan
+## Types of Colon Hydrotherapy
 
-A plan tailored precisely to your needs, constitution and objectives.
-3
+### Detox Colon Hydrotherapy
 
-### Treatment
+Removes toxic waste from the digestive tract at a deep level, for higher energy, better sleep and scientific weight reduction.
 
-Your therapy in our serene, hygienic sanctuary under expert supervision.
-4
+### Medical Colon Hydrotherapy
 
-### Ongoing Care
+Colonics combined with homeopathy, Ayurveda, naturopathy, acupressure, reflexology, massage, balanced diet and lifestyle to relieve colon-related toxicity.
 
-Follow-up and lifestyle guidance so your results last.
+### For Weight Loss
 
-## Colon Hydrotherapy FAQs
+With diet, Ayurveda, yoga, naturopathy, homeopathy and fat-breaking massage, it can help you lose 3–20 kg in a short span, with long-term effects.
+
+How It's Done
+
+## Open vs Closed System
+
+We offer both methods and recommend the most comfortable, effective approach for you.
+
+### Open System
+
+Water continuously flushes in and out; releases initial gas for a comfortable session. A thinner nozzle is used as no waste pipe is needed.
+
+### Closed System
+
+Water stays in the colon 1–2 minutes so stubborn old waste is mobilised, then released by the therapist with an automatic vacuum — effective and painless.
+
+During Your Visit
+
+## What to Expect
+
+The procedure is safe, painless and without side effects.
+
+Each treatment takes about 45 minutes.
+
+Come 1.5–2 hours after a light breakfast, or 3 hours after a medium meal.
+
+Eat light, clean, preferably vegetarian food before and after.
+
+Recommended approach: around three 40-minute sessions over 3–6 days (3–6 sessions initially, then once or twice monthly), combined with homeopathy, Ayurvedic hot-oil massage and diet & lifestyle guidance.
+
+## Frequently Asked Questions
 
 **Q: Are there any side effects?**
 
-No, there are no side effects. The procedure uses FDA-approved equipment with international hygiene standards and filtered, ozonized water.
+No. Treatment uses a fully automatic, FDA-approved machine with international hygiene standards, disposable kits and highly filtered, oxygenated and ozonised water. No medicines are used, so there are no side effects.
 
-**Q: Is it safe and painful?**
+**Q: Will it make me weak or affect healthy gut bacteria?**
 
-Yes — being an essentially natural process, there is virtually no danger. And no, it is not painful at all.
+No — it energises you by removing harmful toxins and waste. The cleansed colon becomes an ideal place for good bacteria to flourish, and Lactobacillus powder is given orally afterwards to replenish healthy bacteria.
 
-**Q: How many sessions are needed?**
+**Q: Do laxatives or enemas do the same thing?**
 
-You must complete 3 sessions in 7 to 10 days to clear all old deposits, gases and toxins.
+No. Laxatives are irritants that clear only recently digested waste, and enemas clean only the last 8 inches of the colon. Colon hydrotherapy cleanses the entire colon.
+
+**Q: Is it safe? Is it painful?**
+
+Yes, it is safe — an essentially natural process with virtually no danger — and not painful at all.
+
+**Q: How many sessions do I need?**
+
+For a first course, complete 3 sessions within 7–10 days to clear old deposits, gas and toxins. After lifestyle and diet changes, one monthly session maintains a clean colon.
 
 ## Book Your Consultation
 

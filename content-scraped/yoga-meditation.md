@@ -1,6 +1,6 @@
 <!--
 Source (live): https://drbalisbliss.com/yoga-meditation/
-Demo page:     https://demo-drbalisbliss.vercel.app/service/yoga.html
+Demo page:     /service/yoga.html
 Title:         Yoga & Meditation in Delhi | Dr. Bali's Bliss
 Meta:          Yoga & Meditation at Dr. Bali's Bliss, Delhi — doctor-guided Hatha, therapeutic yoga, meditation and breathwork to build flexibility, mental clarity and emotional well-being.
 -->
@@ -13,80 +13,74 @@ Experience rejuvenation and balance with our yoga classes led by Dr. Poonam Bali
 
 Book a Free ConsultationLearn More
 
-Understanding the Therapy
+The World's Best Medicine
 
-## Why Yoga & Meditation?
+## Yoga & Meditation
 
-Dr. Poonam Bali says: 'Yoga and Meditation are the world's best medicine.' Our holistic sessions enhance physical flexibility, mental clarity and emotional well-being through doctor-guided practices rooted in naturopathy and functional medicine.
+Dr. Poonam Bali: ‘Yoga and meditation are the world’s best medicine. Yoga helps achieve optimum functioning of all body systems, sound sleep, a calm mind, glowing skin and luxurious hair — and improves immunity and much more.’
 
-From Hatha and therapeutic yoga to meditation, breathwork and classes for children — there's a practice for every body and every goal.
+At Bali’s ‘Bliss’, all classes are guided by Dr. Poonam Bali. Our carefully crafted sessions offer a holistic approach, enhancing physical flexibility, mental clarity and emotional well-being. Class timings: 7 AM, 8 AM, 6 PM and 8 PM.
 
-Class Offerings
+For Every Body
 
-## Our Classes
-Hatha Yoga (alignment and breathwork)
-Therapeutic Yoga (stress, pain, hormonal support)
-Meditation & Breathwork (pranayama)
-Yoga for Children & Teens
-Private Sessions
-Group Classes (7am, 8am, 6pm, 8pm daily)
-Why Choose This Therapy
+## Yoga for All
 
-## Key Benefits
+Personalised, purposeful, powerful — in group and private sessions.
 
-### Sharper Focus
+### Hatha Yoga
 
-Improves focus, concentration and attention.
+Alignment, breath control and mindful movement to build strength, flexibility and calm — perfect for beginners and experienced yogis alike.
 
-### Less Stress
+### Therapeutic Yoga
 
-Reduces stress, anxiety and emotional imbalance.
+Gentle, restorative movement for stress, anxiety, chronic pain, hormonal imbalance or recovery — tailored to your condition.
 
-### Mental Clarity
+### Meditation & Breathwork
 
-Enhances memory, learning and clarity.
+Guided meditation, mindfulness and pranayama to reduce stress, improve emotional balance and sharpen mental clarity.
 
-### Inner Peace
+### Yoga for Children & Teens
 
-Builds confidence and emotional stability.
+Fun, age-appropriate yoga and mindfulness that support emotional regulation, concentration and self-esteem.
 
-### Better Sleep
+### Private Yoga Sessions
 
-Supports sleep, relationships and quality of life.
+Fully tailored to your body, experience and schedule — ideal for beginners, injury recovery or deeper practice.
 
-What To Expect
+### Group Classes
 
-## Your Healing Journey
-1
+Flexible classes all day — morning, midday or evening — to unwind, stretch and recharge.
 
-### Consultation
+Medically Guided
 
-A one-on-one assessment with Dr. Bali to understand your health history and goals.
-2
+## Doctor-Guided Yoga & Meditation
 
-### Personalised Plan
+Imagine if your practice were also medically guided, precise and personalised. At our holistic studio, doctor-guided yoga and meditation sessions are crafted to support your individual health concerns — stress, energy dips, hormonal issues or chronic fatigue.
 
-A plan tailored precisely to your needs, constitution and objectives.
-3
+This is not a general yoga class — it’s a focused, therapeutic session rooted in naturopathy, functional medicine and ancient healing science, emphasising breath, posture, awareness and subtle energy alignment. Yoga meets healing — doctor-guided and purpose-driven.
 
-### Treatment
+Our Practices
 
-Your therapy in our serene, hygienic sanctuary under expert supervision.
-4
+## Meditation Techniques We Use
+Breath WatchingYoga NidraSingle PointednessPebble or Candle-Flame MeditationShoonya (Emptiness) MeditationMeditation on Deities
+Why It Matters
 
-### Ongoing Care
+## The Power of Daily Meditation
+Improves focus and concentrationIncreases attention spanReduces stress, anxiety and overthinkingEnhances memory and learningCreates mental clarity and positivityImproves emotional balance and patienceBuilds discipline and motivationEncourages better relationshipsBuilds self-confidence and inner peaceSupports peak performance in studies, work and life
 
-Follow-up and lifestyle guidance so your results last.
+## Frequently Asked Questions
 
-## Yoga & Meditation FAQs
+**Q: Who can join the classes?**
 
-**Q: What is meditation?**
+Everyone — with group and private sessions for all levels, plus dedicated classes for children, teens and those recovering from illness or injury.
 
-A practice in which you train the mind or induce a mode of higher consciousness to sharpen focus and introspection.
+**Q: What are the class timings?**
 
-**Q: Does meditation require having no thoughts?**
+Sessions run at 7 AM, 8 AM, 6 PM and 8 PM, with flexible group classes throughout the day.
 
-No — thoughts naturally arise; the practice is gently returning your attention to the breath or awareness.
+**Q: What makes it different here?**
+
+Every session is guided by Dr. Poonam Bali and rooted in naturopathy and functional medicine — therapeutic, personalised and medically informed.
 
 ## Book Your Consultation
 

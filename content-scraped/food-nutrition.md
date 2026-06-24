@@ -1,6 +1,6 @@
 <!--
 Source (live): https://drbalisbliss.com/food-nutrition/
-Demo page:     https://demo-drbalisbliss.vercel.app/service/food-nutrition.html
+Demo page:     /service/food-nutrition.html
 Title:         Food & Nutrition Clinic in Delhi | Dr. Bali's Bliss
 Meta:          Smart Food & Nutrition clinic at Dr. Bali's Bliss, Delhi — personalized, therapeutic diet plans that target root causes of chronic and metabolic conditions through whole-food nutrition.
 -->
@@ -13,76 +13,48 @@ A holistic approach to health with food and nutrition — personalized, therapeu
 
 Book a Free ConsultationLearn More
 
-Understanding the Therapy
+Eat Well, Heal Well
 
-## Empower Healing with Nutrition
+## Food & Nutrition — 'Bliss' Satvik Food
 
-Led by Dr. Poonam Bali, our clinic uses personalized nutrition as a therapeutic intervention — applying naturopathic and functional-nutrition principles to address chronic and metabolic conditions through food.
+A balanced diet and good nutrition are essential for general well-being and the prevention of disease. Dr. Poonam Bali introduces a holistic approach to health through a balanced, thoughtful diet plan — prioritising the right nutrients in the right proportions to nourish the body, strengthen immunity and promote vibrant health.
 
-From high-fat low-carb and millet-based plans to condition-specific therapeutic diets, healing foods and detox beverages, every plan is built around your body and your goals.
+At Bliss Clinic we heal from the roots, and food is the foundation. As Dr. Bali says, ‘The right food doesn’t just nourish the body, it recalibrates the mind and restores the gut.’ Our nutrition protocols are therapeutic tools tailored to each individual’s constitution, condition and lifestyle.
 
-Our Approach
+Dr. Bali integrates time-tested naturopathic and functional-nutrition principles, because ‘every chronic disease is, at some level, a result of chronic inflammation — and food is either a trigger or a treatment.’
 
-## How We Help
-Personalized diet plans (HFLC, High Protein, Millet-based)
-Therapeutic diets (diabetes, thyroid, weight loss, detox)
-Healing foods and detox beverages
-Nutritional soups & specialty products (protein laddoos)
-Residential health-retreat programs
-Integration with other holistic therapies
-Why Choose This Therapy
+What It Helps
 
-## Key Benefits
+## Especially Effective For
+Weight management (obesity, underweight, hormonal weight fluctuations)Type 2 diabetes and insulin resistanceHypertension and high cholesterolArthritis and chronic inflammationGut-health disorders (IBS, leaky gut, acidity, indigestion)Skin conditions (eczema, psoriasis, acne)
+Treatments & Pricing
 
-### Root-Cause Focus
+## 'Bliss' Healthy Food Diet
+| | Diet Type | Breakfast | Lunch | Dinner | Day Total |
+| High Fat Low Carb | ₹ 200 | ₹ 350 | ₹ 350 | ₹ 800 |
+| High Protein Food | ₹ 200 | ₹ 350 | ₹ 350 | ₹ 800 |
+| Millet Food | ₹ 200 | ₹ 350 | ₹ 350 | ₹ 800 |
 
-Targets chronic inflammation and disease at the source.
+Desserts also available — Protein & Biotin Laddoos (28 pieces) ₹ 1,200.
 
-### Stronger Immunity
+Cleanse & Nourish
 
-Builds immune resilience and gut health.
+## Detox Drinks & Soups
+| | Item | Price |
+| Detox Juices | ₹ 100 |
+| Detox Smoothies | ₹ 100 |
+| Detox Cocoa Drink | ₹ 100 |
+| Detox Coffee | ₹ 100 |
+| Detox Herbal Tea | ₹ 100 |
+| Mix Vegetable Soup | ₹ 150 |
+| Drumstick Soup | ₹ 100 |
+| Mushroom Soup | ₹ 100 |
+| Broccoli Soup | ₹ 100 |
 
-### Metabolic Balance
+Residential Therapeutic Diets
 
-Manages weight, thyroid and metabolic disorders.
-
-### Whole-Food Wellness
-
-Sustainable health through real, whole foods.
-
-What To Expect
-
-## Your Healing Journey
-1
-
-### Consultation
-
-A one-on-one assessment with Dr. Bali to understand your health history and goals.
-2
-
-### Personalised Plan
-
-A plan tailored precisely to your needs, constitution and objectives.
-3
-
-### Treatment
-
-Your therapy in our serene, hygienic sanctuary under expert supervision.
-4
-
-### Ongoing Care
-
-Follow-up and lifestyle guidance so your results last.
-
-## Food & Nutrition FAQs
-
-**Q: Do you create personalized diet plans?**
-
-Yes — every plan is tailored to your body, condition and goals.
-
-**Q: Can nutrition help chronic conditions?**
-
-Food-based protocols can support diabetes, thyroid, weight loss, detox and more.
+## Condition-Specific Diet Plans
+Diabetic Diet (high fat, low carb)Thyroid Diet (hypothyroid)Weight-Loss Diet (low carb)Detox Diet (antioxidant food)Cancer Diet (anticancer: protein, calories, vitamins & minerals)
 
 ## Book Your Consultation
 

@@ -1,6 +1,6 @@
 <!--
 Source (live): https://drbalisbliss.com/oligoscan/
-Demo page:     https://demo-drbalisbliss.vercel.app/service/oligoscan.html
+Demo page:     /service/oligoscan.html
 Title:         OligoScan Mineral & Heavy Metal Test in Delhi | Dr. Bali's Bliss
 Meta:          OligoScan at Dr. Bali's Bliss, Delhi — a painless spectrophotometric scan that reveals cellular mineral levels, heavy-metal toxicity and oxidative stress in minutes.
 -->
@@ -13,79 +13,59 @@ Reveal hidden deficiencies — a non-invasive scan that measures cellular minera
 
 Book a Free ConsultationLearn More
 
-Understanding the Therapy
+Know Your Cellular Health
 
 ## What is the OligoScan Test?
 
-The OligoScan is a non-invasive diagnostic tool that uses spectrophotometry to evaluate cellular levels of essential minerals, toxic heavy metals and oxidative stress in real time — with results in minutes.
+Do you often feel fatigued, bloated or out of sync despite a healthy diet and workout routine? The issue might stem from deeper, cellular imbalances. The OligoScan test evaluates your body’s mineral levels, toxic heavy metals and oxidative stress, giving a real-time snapshot of your internal health.
 
-A quick, painless scan detects crucial minerals (calcium, zinc, magnesium), harmful heavy metals (mercury, lead, aluminium), trace elements and oxidative stress load — so your plan can be tailored precisely to you.
+Using spectrophotometry, this painless, non-invasive scan delivers results within minutes — a revolutionary tool in preventive and functional healthcare that offers immediate clarity on your nutritional and toxic load.
 
-Why Choose This Therapy
+In Minutes
 
-## Key Benefits
+## What the Scan Identifies
 
-### Uncover Imbalances
+### Essential Minerals
 
-Detects silent mineral deficiencies and heavy-metal toxicities.
+Crucial minerals such as calcium, zinc and magnesium.
 
-### Personalised Plans
+### Heavy Metals
 
-Enables tailored detox, nutrition and supplement plans.
+Harmful metals including mercury, lead and aluminium.
 
-### Track Progress
+### Trace Elements
 
-Monitor your health improvements over time.
+Trace elements essential for healthy metabolism.
 
-### More Energy
+### Oxidative Stress
 
-Boosts immunity, mental clarity and energy levels.
+Your oxidative-stress load, measured in real time.
 
-### Prevention
+From Data to Action
 
-Helps prevent long-term chronic conditions.
+## How It Helps You Regain Balance
+Uncover silent deficiencies or toxicitiesTailor your detox, nutrition and supplement regimenTrack health improvements over timePrevent long-term chronic conditions
+Why You Still Feel Off
 
-### Results in Minutes
+## The Hidden Cellular Imbalance
 
-Fast, painless and completely non-invasive.
+In today’s fast-paced world, many people struggle with chronic fatigue, brain fog, mood swings and unexplained health concerns — even when they eat well and stay active.
 
-What To Expect
+This often happens due to hidden imbalances at the cellular level that regular checkups don’t detect. They affect how your body absorbs nutrients, handles toxins and manages energy — and correcting them can boost immunity, sharpen focus, raise energy and restore true mind-body equilibrium.
 
-## Your Healing Journey
-1
+## Frequently Asked Questions
 
-### Consultation
+**Q: What is the OligoScan test?**
 
-A one-on-one assessment with Dr. Bali to understand your health history and goals.
-2
+A painless, quick, non-invasive scan that evaluates intracellular levels of essential minerals, toxic heavy metals and oxidative stress in real time.
 
-### Personalised Plan
+**Q: How does it help me understand my health?**
 
-A plan tailored precisely to your needs, constitution and objectives.
-3
+Instead of guessing which supplements you need or which toxins are at play, it provides accurate, individualised data on what's really going on inside your body.
 
-### Treatment
+**Q: What are the benefits?**
 
-Your therapy in our serene, hygienic sanctuary under expert supervision.
-4
-
-### Ongoing Care
-
-Follow-up and lifestyle guidance so your results last.
-
-## OligoScan FAQs
-
-**Q: Why do I feel tired despite healthy habits?**
-
-Hidden imbalances at the cellular level can affect nutrient absorption and toxin management, causing symptoms regular check-ups don't detect.
-
-**Q: How does this help me understand my health?**
-
-It provides accurate, individualised data — enabling a personalised roadmap for detoxification and overall wellness.
-
-**Q: Is the scan invasive?**
-
-No — it's a quick, painless spectrophotometric scan.
+A personalised roadmap to detoxification, improved nutrient absorption and overall mind-body harmony.
 
 ## Book Your Consultation
 

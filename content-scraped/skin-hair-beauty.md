@@ -1,6 +1,6 @@
 <!--
 Source (live): https://drbalisbliss.com/skin-hair/
-Demo page:     https://demo-drbalisbliss.vercel.app/service/skin-hair-beauty.html
+Demo page:     /service/skin-hair-beauty.html
 Title:         Skin, Hair & Beauty in Delhi | Dr. Bali's Bliss
 Meta:          Holistic skin, hair and beauty care at Dr. Bali's Bliss, Delhi — root-cause treatment for lasting results, from facials, peels and PRP to hair rejuvenation and beauty services.
 -->
@@ -13,108 +13,131 @@ Transform your skin and hair through root-cause healing — addressing diet, lif
 
 Book a Free ConsultationLearn More
 
-Understanding the Therapy
+Root-Cause Healing
 
-## Beauty That Begins Within
+## Transform Skin & Hair from Within
 
-Dr. Bali's Bliss treats skin and hair conditions through integrated wellness rather than conventional suppressive methods. With 25+ years of experience, the clinic addresses root causes — diet, lifestyle, detoxification and stress — for lasting cosmetic and medical results.
+Many skin conditions — acne, psoriasis, eczema, dermatitis and urticaria — stem from deeper health issues. Rather than temporary suppressive treatments, Dr. Bali’s Bliss takes a holistic approach: diet and lifestyle correction, stress reduction, detoxification, targeted therapies, immunity enhancement, better hygiene and proper hydration.
 
-From advanced facials and peels to PRP and holistic hair rejuvenation, every treatment is customized to your individual needs in a professional, hygienic environment.
+Root causes of skin disorders include constipation, poor sleep, inadequate nutrition, stress, shallow breathing, allergies, genetics, weak immunity, autoimmune conditions, neglected hygiene and dehydration — so we treat skin and hair as a reflection of inner health.
 
-What We Offer
+Glow Naturally
 
-## Treatments & Services
+## Therapy Facials
 
-### Skin Care
+### O3+ Professional Facial
 
-- O3+ Professional Facials
-- Casmara Algae Peel-Off
-- 24K Gold & Fruit Facials
-- Chemical Peels
-- Microdermabrasion
-- HydraFacial
-- Carbon Laser Facial
-- Microneedling with RF
-- PRP Facial
-- LED Light Therapy
+Vitamin C, hyaluronic acid and oxygenating agents — deep cleansing, brightening and rejuvenation for all skin types.
 
-### Hair Rejuvenation
+### Casmara Algae Peel-Off
 
-- Herbal Scalp Massages & Packs
-- Ayurvedic Hair Therapy
-- PRP with Growth Factor
-- Ozone Therapy for Hair
-- Mesotherapy for Regrowth
-- Low-Level Laser Therapy
+Algae masks with vitamin C, goji berries and 24K gold — intense hydration and firmness for sensitive, dehydrated skin.
 
-### Beauty Services
+### 24K Gold Facial
 
-- Waxing (full body, facial, bikini)
-- Manicure
-- Pedicure
-- Men's Anti-Pollution Detox Facials
+Pure gold sheets or infused gels stimulate collagen, reduce fine lines and add luminosity to mature, dull skin.
 
-Why Choose This Therapy
+### Fruit Facial
 
-## Key Benefits
+Natural fruit extracts gently exfoliate, lighten pigmentation and tan, and restore a natural glow.
 
-### Holistic Approach
+### Deep Cleansing Facial
 
-Treats skin disorders by addressing underlying causes.
+Cleansing, exfoliation, steam and extraction to unclog pores, reduce acne and balance oil for acne-prone skin.
 
-### Natural & Safe
+Clinical Care
 
-Uses your own plasma (PRP) and growth factors.
+## Advanced Skin Treatments
 
-### Customised Care
+### HydraFacial
 
-Treatments tailored to your individual needs.
+Cleansing, exfoliation, extraction, hydration and antioxidant protection for deeply hydrated, healthier skin.
 
-### Expert Hands
+### Chemical Peels
 
-25+ years of holistic dermatology experience.
+Glycolic, salicylic and lactic-acid peels for acne, scars and pigmentation — exfoliating and brightening.
 
-What To Expect
+### Microdermabrasion
 
-## Your Healing Journey
-1
+Gentle exfoliation for fine lines, light scarring and dull complexion, for smoother texture.
 
-### Consultation
+### Carbon Laser Facial
 
-A one-on-one assessment with Dr. Bali to understand your health history and goals.
-2
+Carbon solution plus laser to reduce oiliness, tighten pores and even skin tone.
 
-### Personalised Plan
+### Microneedling with RF (MNRF)
 
-A plan tailored precisely to your needs, constitution and objectives.
-3
+Microneedling with radiofrequency for acne scars, wrinkles and laxity — firmer, smoother skin.
 
-### Treatment
+### PRP & LED Therapy
 
-Your therapy in our serene, hygienic sanctuary under expert supervision.
-4
+Platelet-rich plasma and LED light therapy boost collagen, radiance and calm acne and inflammation.
 
-### Ongoing Care
+We Treat the Cause
 
-Follow-up and lifestyle guidance so your results last.
+## Skin Conditions Treated
+Psoriasis — inflammation, rapid skin-cell buildup and scalingAcne — clogged follicles, pimples and blackheadsEczema — dry, itchy skin and a weakened barrierDermatitis — itching, swelling, redness and rashUrticaria (hives) — raised, itchy bumps from allergic reactions
+Healthy Scalp, Healthy Hair
 
-## Skin, Hair & Beauty FAQs
+## Hair Regrowth & Rejuvenation
+
+### Scalp Massages
+
+Herbal oils (coconut, castor, almond) improve circulation, stimulate dormant follicles and reduce scalp tension.
+
+### Herbal Hair Packs & Ayurvedic Therapy
+
+Henna, amla, bhringraj, brahmi, neem and shirodhara strengthen follicles, reduce fall and premature greying.
+
+### PRP with Growth Factor
+
+Your own plasma stimulates follicles to grow new hair and thicken existing hair — safe, with no side effects.
+
+### Ozone Therapy for Hair
+
+Ozone boosts scalp oxygen, detoxifies, reduces dandruff and strengthens follicles.
+
+### Mesotherapy
+
+Vitamins, minerals, amino acids and growth factors injected into the scalp to repair follicles and target imbalance.
+
+### Low-Level Laser Therapy
+
+Red-light therapy stimulates follicles and improves density — non-invasive and painless.
+
+Wellness Conveniences
+
+## Beauty Services
+
+### Waxing
+
+Gentle, effective waxing for all skin types with premium, skin-safe and herbal wax options.
+
+### Manicure
+
+Cuticle care, exfoliation, massage and hydration — classic, spa, gel and brightening options.
+
+### Pedicure
+
+Deep cleansing, exfoliation, massage and anti-crack heel therapy for soft, healthy feet.
+
+## Frequently Asked Questions
 
 **Q: What skin treatments are available?**
 
-Acne cleanups, scar & pigmentation treatments, anti-pollution facials, dermal peels, hydrating, ozone, collagen and PRP facials.
+Acne cleanups, scar and pigmentation treatments, anti-pollution facials, dermal peels, hydrating, ozone, collagen, PRP and vampire facials.
 
-**Q: What hair therapies are provided?**
+**Q: What hair therapies do you provide?**
 
-Fruit hair packs, homeopathic hair-fall treatment, and aroma head massages among advanced options.
+Bliss fruit hair packs, organic hair-fall homeopathic treatment, aroma head massages, PRP, ozone, mesotherapy and laser therapy.
 
-**Q: Are men's treatments available?**
+**Q: Is there care tailored for men?**
 
-Yes — special men's detox anti-pollution facials addressing oily skin and pollution damage.
+Yes — special men's detox anti-pollution facials (from ₹ 1,500) address oily skin, sun exposure and pollution.
 
-**Q: Is home-care provided?**
+**Q: How much do facial treatments cost?**
 
-Yes — custom cleansers, toners and prescribed herbal mixes for maintenance.
+Dermal peels and hydrating/ozone facials: ₹ 2,500–3,500; PRP facial: ₹ 18,000; vampire facial: ₹ 20,000.
 
 ## Book Your Consultation
 

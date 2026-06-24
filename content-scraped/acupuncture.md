@@ -1,6 +1,6 @@
 <!--
 Source (live): https://drbalisbliss.com/acupuncture/
-Demo page:     https://demo-drbalisbliss.vercel.app/service/acupuncture.html
+Demo page:     /service/acupuncture.html
 Title:         Acupuncture in Delhi | Dr. Bali's Bliss
 Meta:          Acupuncture at Dr. Bali's Bliss, Delhi — a safe, effective, drug-free therapy using fine needles to restore the flow of Qi, relieve pain and enhance overall wellness.
 -->
@@ -13,75 +13,55 @@ A safe, effective and drug-free therapy to restore balance, relieve pain and enh
 
 Book a Free ConsultationLearn More
 
-Understanding the Therapy
+Ancient Healing Practice
 
 ## What is Acupuncture?
 
-This ancient healing practice from Traditional Chinese Medicine involves inserting fine, sterile needles into specific body points to stimulate energy flow and promote natural healing.
+Experience the power of ancient healing with acupuncture — a safe, effective, drug-free therapy to restore balance, relieve pain and enhance overall wellness. We blend traditional Chinese medicine with modern healthcare to treat a wide range of physical and emotional conditions.
 
-The treatment improves circulation, reduces inflammation and restores the body's energy balance.
+A holistic technique rooted in Traditional Chinese Medicine (TCM), acupuncture inserts fine, sterile needles into specific acupoints to stimulate energy flow (Qi) and promote natural healing — improving circulation, reducing inflammation and restoring the body’s energy balance.
 
-Why Choose This Therapy
+What It Treats
 
-## Key Benefits
+## Conditions Treated with Acupuncture
+Chronic pain — back, neck and joint painMigraines and headachesArthritis and musculoskeletal issuesStress, anxiety and depressionInsomnia and sleep disordersDigestive issues like IBS and acidityWomen's health — PCOS, irregular periods, menopauseFertility support and hormonal balance
+The Bliss Difference
 
-### Relieves Stress
+## Why Choose Acupuncture Here
 
-Eases stress and enhances mood.
+### Certified Practitioners
 
-### Better Sleep
+Certified and experienced acupuncture practitioners.
 
-Improves sleep quality.
+### Customised Plans
 
-### Manages Pain
+Treatment plans tailored to your unique health goals.
 
-Relieves chronic and acute pain.
+### Calming Environment
 
-### Balances Hormones
+A safe, hygienic and calming healing space.
 
-Supports hormonal balance and fertility.
+### Holistic Integration
 
-### Digestive & Respiratory
+Integrated with naturopathy and holistic care.
 
-Eases digestive and respiratory concerns.
-
-What To Expect
-
-## Your Healing Journey
-1
-
-### Consultation
-
-A one-on-one assessment with Dr. Bali to understand your health history and goals.
-2
-
-### Personalised Plan
-
-A plan tailored precisely to your needs, constitution and objectives.
-3
-
-### Treatment
-
-Your therapy in our serene, hygienic sanctuary under expert supervision.
-4
-
-### Ongoing Care
-
-Follow-up and lifestyle guidance so your results last.
-
-## Acupuncture FAQs
+## Frequently Asked Questions
 
 **Q: What is acupuncture?**
 
 An ancient healing therapy involving fine needles inserted at specific meridian points to balance energy flow and promote natural healing.
 
+**Q: What benefits can I expect?**
+
+It helps relieve stress, improve sleep, boost immunity, ease digestive issues, balance hormones and enhance mood, energy and skin health.
+
 **Q: Which conditions does it treat?**
 
-It's effective for pain (headaches, muscle/joint pain), anxiety, sleep disorders, digestive concerns, respiratory issues and hormonal imbalances.
+Pain management (headaches, muscle and joint pain), anxiety, sleep disorders, digestive concerns, respiratory issues and hormonal imbalances.
 
 **Q: Is it safe and comfortable?**
 
-Yes — sessions are gentle and typically relaxing, triggering the body's endorphins without discomfort.
+Yes — sessions are gentle and typically relaxing, triggering the body's endorphins without discomfort, and well tolerated by most people.
 
 ## Book Your Consultation
 

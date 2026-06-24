@@ -1,6 +1,6 @@
 <!--
 Source (live): https://drbalisbliss.com/naturopathy/
-Demo page:     https://demo-drbalisbliss.vercel.app/service/naturopathy.html
+Demo page:     /service/naturopathy.html
 Title:         Naturopathy in Delhi | Dr. Bali's Bliss
 Meta:          Naturopathy at Dr. Bali's Bliss, Delhi — drug-free healing using nature's five elements through mud therapy, hydrobaths, fasting, yoga and nutrition to activate self-healing.
 -->
@@ -17,73 +17,75 @@ Understanding the Therapy
 
 ## What is Naturopathy?
 
-Naturopathic care operates on the principle that toxin accumulation causes illness. Dr. Bali's centre employs nature's five elements — earth, water, fire, air and ether — through therapies like mud packs, hydrobaths and fasting to activate the body's inherent healing abilities, without pharmaceutical intervention.
+The guiding principle of naturopathy is that the accumulation of toxins leads to all illness. By eliminating toxic waste regularly and preventing its build-up, we can enjoy long-term health — with no role for medicine; instead, food plays the role of medicine.
 
-It is ideal for chronic conditions, addressing them through holistic lifestyle modification.
+This multi-disciplinary approach uses the healing power of natural resources — food, herbs and magnets — through yoga, nutrition, magnet therapy and physiotherapy to awaken the body’s own capacity to heal.
 
-What's Offered
+Nature's Pharmacy
 
-## Therapies Included
-Mud therapy and packs
-Hydrobaths and water therapies
-Steam treatments
-Sun and air baths
-Fasting protocols
-Yoga and nutrition counselling
-Magnet therapy and physiotherapy
-Why Choose This Therapy
+## Healing with the Five Elements
 
-## Key Benefits
+Nature — and our body — is made of five elements (panchabhutas). Naturopathy restores balance using their healing power.
 
-### Drug-Free Healing
+### Earth
 
-Removes toxins using natural elements alone.
+Mud therapy, mud packs and mud baths; barefoot walks, gardening and food close to nature like sprouts, salads and soups.
 
-### Chronic Conditions
+### Water
 
-Supports asthma, arthritis, hypertension and GI issues.
+Hydrotherapy — hip, foot, sitz and spinal baths, hot and cold packs, water sprays and wet steam (our body is 72% water).
 
-### Lifestyle Reset
+### Air
 
-Heals through holistic lifestyle modification.
+Deep breathing, air baths and ozone therapy to boost natural health and immunity.
 
-### Self-Healing
+### Sun
 
-Stimulates the body's inherent healing power.
+Soaking in sun energy, walking barefoot on sun-warmed earth and eating fresh, sun-grown foods.
 
-What To Expect
+### Sky / Ether
 
-## Your Healing Journey
-1
+The element of emptiness — practising fasting and stillness to reset the body.
 
-### Consultation
+What It Helps
 
-A one-on-one assessment with Dr. Bali to understand your health history and goals.
-2
+## Conditions It Addresses
+AsthmaArthritisGastrointestinal issuesHypertensionLifestyle disordersJoint painObesityMetabolic issues
+Treatments & Pricing
 
-### Personalised Plan
+## Naturopathy Treatments & Pricing
+| | Treatment | Detail | Price |
+| Mud Pack | Chest / Abdomen | ₹ 800 |
+| Mud Pack | Eyes / Knees | ₹ 400 |
+| Mud Pack | Full body | ₹ 1,200 |
+| Hydro Baths | Hip / Sitz / Abdominal / Spinal | ₹ 500 |
+| Hydro Baths | Foot bath | ₹ 400 |
+| Steam | Full body | ₹ 800 |
+| Steam | Face / Nose | ₹ 400 |
+| Steam | Area-wise | ₹ 500 |
+| Enemas | Water / Salt / Herbal | ₹ 500–700 |
+| Wet Packs | Hot & cold abdominal | ₹ 800 |
+| Diet Session | 30 min consultation | ₹ 1,800 |
+| Diet Session | 15 min / follow-up | ₹ 500–1,000 |
+| Programme by Dr. Bali | 1 month / 3 months | ₹ 3,000–7,500 |
 
-A plan tailored precisely to your needs, constitution and objectives.
-3
-
-### Treatment
-
-Your therapy in our serene, hygienic sanctuary under expert supervision.
-4
-
-### Ongoing Care
-
-Follow-up and lifestyle guidance so your results last.
-
-## Naturopathy FAQs
+## Frequently Asked Questions
 
 **Q: What is naturopathy?**
 
 A holistic, drug-free system that removes toxins using natural elements — food, water, sun, air, mud and fasting — to stimulate the body's self-healing.
 
+**Q: What therapies are included?**
+
+Yoga, nutrition counselling, physiotherapy, magnet therapy, acupressure, mud packs, hydrobaths, steam packs, ozone, sun and air baths, and fasting protocols.
+
 **Q: What health issues can it help with?**
 
-Ideal for chronic conditions: asthma, arthritis, hypertension, GI issues, lifestyle disorders, joint pain, obesity and metabolic issues.
+Chronic conditions such as asthma, arthritis, hypertension, GI issues, lifestyle disorders, joint pain, obesity and metabolic problems.
+
+**Q: How is it integrated at Bliss?**
+
+Dr. Bali combines naturopathy with homeopathy, Ayurveda, yoga, detox and ozone therapies for a fully integrated, personalised healing experience.
 
 ## Book Your Consultation
 

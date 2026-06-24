@@ -1,6 +1,6 @@
 <!--
 Source (live): https://drbalisbliss.com/infrared-sauna/
-Demo page:     https://demo-drbalisbliss.vercel.app/service/infrared-sauna.html
+Demo page:     /service/infrared-sauna.html
 Title:         Far Infrared Sauna in Delhi | Dr. Bali's Bliss
 Meta:          Far Infrared Sauna at Dr. Bali's Bliss, Delhi — gentle, deep-penetrating heat to promote detoxification, improve circulation, relieve pain and support relaxation and recovery.
 -->
@@ -16,37 +16,29 @@ See Benefits
 
 Understanding the Therapy
 
-## What Is a Far Infrared Sauna?
+## What is a Far Infrared Sauna?
 
-This is the sauna used by clinics and doctors as a treatment and healing modality — not just for sweating and surface detox. "Far" means it reaches the deepest layers of cells and tissues. A Far Infrared Sauna (FIR Sauna) is a modern wellness tool that uses far infrared light to generate heat and promote a variety of health benefits.
+A Far Infrared Sauna (FIR Sauna) is a modern wellness tool that uses far-infrared light to generate heat and a range of health benefits. Unlike conventional saunas that warm the surrounding air, FIR saunas use infrared panels that emit light wavelengths which penetrate the skin and gently warm the body from within.
 
-Unlike traditional saunas that heat the air around you, FIR saunas use infrared panels to emit wavelengths of light that penetrate the skin and gently warm the body from within.
+The light works in the 15–1000 micron range, penetrating about 1.5 inches beneath the skin to directly heat muscles and tissues at comfortable temperatures (110–140°F / 43–60°C) — boosting circulation, releasing toxins through sweat and triggering the body's healing processes.
 
-How It Works
-
-## Deep Heat, Gentle Comfort
-
-Far infrared saunas emit far infrared light within the wavelength range of 15–1000 microns. This light penetrates the skin up to 1.5 inches deep, heating muscles and internal tissues directly rather than simply warming the air.
-
-The body responds to this deep heat by increasing circulation, releasing stored toxins through sweat, and stimulating natural healing processes — all at lower, more comfortable temperatures (typically 110°F–140°F / 43°C–60°C).
-
-Know the Spectrum
+The Science
 
 ## Types of Infrared Saunas
 
+Some units combine all three wavelengths; others specialise in far infrared for deeper, more focused results.
+
 ### Near Infrared (NIR)
 
-Shorter wavelengths (0.75–1.5 microns). Targets the skin surface and cellular healing — often used for wound healing, skin rejuvenation and collagen production.
+Shorter wavelengths (0.75–1.5 microns) that address the skin surface and cellular healing — wound healing, skin rejuvenation and collagen production.
 
 ### Mid Infrared (MIR)
 
-Medium wavelengths (1.5–5.6 microns). Penetrates deeper into soft tissues and supports improved circulation and pain relief.
+Medium wavelengths (1.5–5.6 microns) that reach deeper into soft tissues to improve circulation and relieve pain.
 
 ### Far Infrared (FIR)
 
-Longer wavelengths (5.6–1000 microns). Penetrates deeply into the body — best for detoxification, relaxation and muscle recovery.
-
-Some saunas combine all three wavelengths for a full-spectrum experience, while others focus specifically on far infrared for deeper, more targeted benefits.
+Longer wavelengths (5.6–1000 microns) that penetrate deeply — ideal for detoxification, relaxation and muscle recovery.
 
 Why Choose This Therapy
 
@@ -54,53 +46,49 @@ Why Choose This Therapy
 
 ### Detoxification
 
-Deep sweating helps flush out toxins, heavy metals and environmental pollutants through the skin.
+Deep sweating helps eliminate toxins, heavy metals and environmental pollutants through the skin.
 
 ### Improved Circulation
 
-Increases blood flow and oxygenation throughout the body, supporting cardiovascular health and faster muscle recovery.
+Increases blood flow and oxygen delivery, supporting cardiovascular health and faster recovery.
 
 ### Pain Relief
 
-Infrared heat can reduce joint stiffness, muscle soreness and chronic pain — especially with arthritis, fibromyalgia or sports injuries.
+Eases joint stiffness, muscle soreness and chronic pain — helpful for arthritis, fibromyalgia and sports injuries.
 
 ### Relaxation & Stress Relief
 
-The gentle, enveloping heat helps calm the nervous system, reduce cortisol levels and promote deeper relaxation.
+Gentle, enveloping heat calms the nervous system and lowers cortisol for deeper relaxation.
 
 ### Skin Health
 
-Sweating cleanses pores and improves skin tone, elasticity and overall appearance.
+Sweating cleanses pores and improves skin tone, elasticity and appearance; helps reduce cellulite.
 
 ### Weight Management
 
-Increased heart rate and sweating may support calorie burn, mimicking the effects of mild aerobic exercise.
+Raised heart rate and sweating support calorie burn, mimicking mild aerobic exercise.
 
-### Speedy Injury Recovery
+### Speedy Recovery
 
-Liberates oxygen to joints and extremities, speeding the healing of sprains and fractures.
+Delivers oxygen to joints and extremities, accelerating healing of sprains and fractures.
 
 ### Better Digestion
 
-Promotes the blood circulation and oxygen needed to support the digestion process.
+Promotes the blood circulation and oxygen needed for proper digestion.
 
-### Reduces Cellulite
+## Frequently Asked Questions
 
-Profuse far-infrared sweating helps clear the fat, water and toxins that push against connective tissue beneath the skin.
-
-## Infrared Sauna FAQs
-
-**Q: What is Infrared Sauna Therapy?**
+**Q: What is infrared sauna therapy?**
 
 It uses infrared light to heat your body directly, promoting detox, relaxation and healing.
 
 **Q: What are the key benefits?**
 
-Improves circulation, supports weight loss, reduces joint/muscle pain and enhances skin clarity.
+Improves circulation, supports weight loss, reduces joint and muscle pain, and enhances skin clarity.
 
-**Q: How is it different from traditional saunas?**
+**Q: How is it different from a traditional sauna?**
 
-Infrared saunas heat the body more deeply at lower temperatures, making them gentler and more effective.
+Infrared saunas heat the body more deeply at lower temperatures, making the experience gentler and more effective.
 
 **Q: Who should avoid it?**
 

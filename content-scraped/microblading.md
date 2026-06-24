@@ -1,6 +1,6 @@
 <!--
 Source (live): https://drbalisbliss.com/micorblading/
-Demo page:     https://demo-drbalisbliss.vercel.app/service/microblading.html
+Demo page:     /service/microblading.html
 Title:         Microblading in Delhi | Dr. Bali's Bliss
 Meta:          Hair-stroke microblading at Dr. Bali's Bliss, Delhi — semi-permanent, natural-looking eyebrow enhancement with medical-grade pigments in a sterile clinical setting.
 -->
@@ -13,83 +13,60 @@ Enhance your brows with hair-stroke microblading — semi-permanent, natural-loo
 
 Book a Free ConsultationLearn More
 
-Understanding the Therapy
+Semi-Permanent Beauty
 
-## What is Microblading?
+## What is Microblading & PMU?
 
-Microblading is a semi-permanent eyebrow-enhancement technique that uses fine, feather-like strokes to mimic natural hair. Our medical-grade approach prioritizes skin-health assessment alongside aesthetic results.
+Microblading is a semi-permanent technique that uses fine, hair-like strokes to enhance and shape the eyebrows for a natural, fuller look — perfect for thinning brows, patchy growth or a more defined, youthful appearance.
 
-Using topical anaesthetic for comfort, practitioners apply biocompatible pigments suited to your skin type in a sterile clinical environment — assessing your skin health and healing tendencies beforehand.
+Permanent Makeup (PMU) includes lip blush, eyeliner enhancement and scalp micropigmentation, adding definition and confidence that lasts for months to years. At Dr. Poonam Bali’s Bliss Clinic, we prioritise safety, hygiene and precision.
 
-Why Choose This Therapy
+Why a Doctor's Clinic
 
-## Key Benefits
+## The Bliss Advantage
 
-### Natural Definition
+### Medical-Grade Pigments
 
-Fuller, natural-looking brows with fine strokes.
+Biocompatible, high-quality pigments matched to your skin type and tone.
 
-### Long-Lasting
+### Sterile Environment
 
-Results last 12–18 months.
+Clinical-grade sterilisation and hygiene protocols for your safety.
 
-### Saves Time
+### Holistic Skin Approach
 
-No more daily brow makeup.
+We assess your skin's health, healing tendencies and immune response before the procedure.
 
-### Custom Design
+### Corrective Expertise
 
-Shaped to suit your individual features.
+Safe correction or lightening for overdone or uneven microblading done elsewhere.
 
-### Corrective Options
+What You Gain
 
-Fixes and refreshes previous work.
+## Benefits of Microblading & PMU
+Natural-looking, fuller browsLong-lasting lip colour and definitionSoft eyeliner for brighter eyesScalp micropigmentation for a denser hairlineSaves time in your daily makeup routine
+The Bliss Difference
 
-### Medical-Grade & Sterile
+## Why Choose Bliss Clinic
+Internationally trained PMU artistsPremium pigments and techniques for safe, lasting resultsPain-minimised methods with numbing agentsHygienic, sterile environmentCustomised design to suit your unique features
 
-Biocompatible pigments, clinical hygiene.
+## Frequently Asked Questions
 
-What To Expect
+**Q: How long does microblading last?**
 
-## Your Healing Journey
-1
+Typically 12–18 months, depending on skin type, lifestyle and sun exposure.
 
-### Consultation
+**Q: Is the procedure painful?**
 
-A one-on-one assessment with Dr. Bali to understand your health history and goals.
-2
+Mild discomfort may occur; we use a topical anaesthetic to keep it comfortable.
 
-### Personalised Plan
+**Q: Can it be reversed or lightened?**
 
-A plan tailored precisely to your needs, constitution and objectives.
-3
+Yes — some fading happens naturally in 4–6 weeks, and we offer non-laser lightening options where possible.
 
-### Treatment
+**Q: Is it suitable for all skin types?**
 
-Your therapy in our serene, hygienic sanctuary under expert supervision.
-4
-
-### Ongoing Care
-
-Follow-up and lifestyle guidance so your results last.
-
-## Microblading FAQs
-
-**Q: How long does it last?**
-
-Typically 12–18 months, depending on skin type and sun exposure.
-
-**Q: Does it hurt?**
-
-Only mild discomfort — a topical anaesthetic is provided.
-
-**Q: Is it reversible?**
-
-Natural fading occurs over 4–6 weeks; non-laser lightening options are available.
-
-**Q: Is it suitable for my skin?**
-
-Suitable for most skin types, though oily or sensitive skin requires customization.
+Mostly yes, though very oily or highly sensitive skin may need a customised approach.
 
 ## Book Your Consultation
 

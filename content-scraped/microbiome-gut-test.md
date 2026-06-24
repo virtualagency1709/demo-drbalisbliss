@@ -1,6 +1,6 @@
 <!--
 Source (live): https://drbalisbliss.com/microbiome-gut-function-test/
-Demo page:     https://demo-drbalisbliss.vercel.app/service/microbiome-gut-test.html
+Demo page:     /service/microbiome-gut-test.html
 Title:         Microbiome Gut Function Test in Delhi | Dr. Bali's Bliss
 Meta:          Microbiome Gut Function Test at Dr. Bali's Bliss, Delhi — a simple, non-invasive test that analyses your gut bacteria to create science-based, personalized probiotics.
 -->
@@ -13,67 +13,39 @@ Science-based, personalized probiotics for your unique microbiome — because no
 
 Book a Free ConsultationLearn More
 
-Understanding the Therapy
+Personalised Gut Health
 
-## What is the Microbiome Gut Test?
+## Your Gut Health Matters
 
-An advanced diagnostic test that analyses the specific bacterial strains in your gut microbiome. Since each person has a unique microbial composition, the test enables a customized probiotic formula rather than a generic, one-size-fits-all solution.
+Your digestive system plays a critical role in digestion, immunity, mood and overall well-being. Each person has a distinct gut microbiome, so generic probiotic solutions often fall short of individual needs.
 
-Simply take a non-invasive test, receive your microbiome analysis report, and get a personalized probiotic formula designed specifically for your results.
+We use sophisticated microbiome analysis to identify the specific bacterial strains in your digestive system — revealing the variety of gut bacteria, the balance of beneficial versus harmful microorganisms, and how your microbiome influences digestion, immunity and vitality.
 
-Why Choose This Therapy
+Simple & Non-Invasive
 
-## Key Benefits
+## The Three-Step Process
 
-### Map Your Bacteria
+### Take the Test
 
-Identifies the diversity and balance of your gut bacteria.
+A straightforward, non-invasive assessment.
 
-### Understand the Impact
+### Receive Analysis
 
-Reveals how your microbiome affects digestion, immunity and energy.
+Laboratory examination of your unique bacterial composition.
 
-### Targeted Probiotics
+### Custom Formula
 
-Enables precise, personalized probiotic treatment.
+A personalised probiotic solution designed specifically for your results.
 
-### Lasting Gut Health
+Why It Works
 
-Supports long-term restoration of gut wellness.
+## Why Personalised Probiotics
+Customised to match your individual microbiomeEnhances digestive function, energy and immune responseFounded on advanced microbiome researchPromotes sustainable bacterial equilibrium
+Beyond Testing
 
-What To Expect
+## Integrated Gut-Health Support
 
-## Your Healing Journey
-1
-
-### Consultation
-
-A one-on-one assessment with Dr. Bali to understand your health history and goals.
-2
-
-### Personalised Plan
-
-A plan tailored precisely to your needs, constitution and objectives.
-3
-
-### Treatment
-
-Your therapy in our serene, hygienic sanctuary under expert supervision.
-4
-
-### Ongoing Care
-
-Follow-up and lifestyle guidance so your results last.
-
-## Microbiome Gut Test FAQs
-
-**Q: Why is personalized better than standard probiotics?**
-
-It's targeted to your unique microbiome and backed by science for your specific bacterial composition.
-
-**Q: Is the test invasive?**
-
-No — it's simple and non-invasive.
+We combine the test with colon hydrotherapy, homeopathic remedies, traditional massage, dietary guidance and lifestyle modifications to address digestive concerns including constipation, bloating, acid reflux and weight management — for lasting gut health.
 
 ## Book Your Consultation
 

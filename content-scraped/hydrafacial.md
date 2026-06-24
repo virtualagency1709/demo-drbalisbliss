@@ -1,6 +1,6 @@
 <!--
 Source (live): https://drbalisbliss.com/hydrafacial/
-Demo page:     https://demo-drbalisbliss.vercel.app/service/hydrafacial.html
+Demo page:     /service/hydrafacial.html
 Title:         HydraFacial in Delhi | Dr. Bali's Bliss
 Meta:          HydraFacial at Dr. Bali's Bliss, Delhi — a non-invasive treatment that deeply cleanses, exfoliates and hydrates with Vortex-Fusion technology for an instant, no-downtime glow.
 -->
@@ -15,81 +15,62 @@ Book a Free ConsultationLearn More
 
 Understanding the Therapy
 
-## What is a HydraFacial?
+## What is HydraFacial?
 
-HydraFacial is a non-invasive treatment that deeply cleanses, exfoliates and hydrates the skin using a patented device that delivers serums and gentle suction to improve tone and texture.
+HydraFacial is a non-invasive treatment that deeply cleanses, exfoliates and hydrates the skin using a patented device. It combines multiple skincare steps with Vortex-Fusion technology to cleanse pores while infusing medical-grade serums rich in nutrients, peptides and hydration boosters.
 
-Using Vortex-Fusion technology, the treatment combines cleansing, exfoliation, extraction, hydration and antioxidant protection in one session lasting 30–45 minutes — customizable for all skin types.
+It adapts to all skin types and addresses dullness, dryness, acne, pigmentation and fine lines — with no downtime.
 
 Why Choose This Therapy
 
-## Key Benefits
+## Benefits of HydraFacial
 
 ### Instant Glow
 
-Brighter, smoother skin after just one session.
+Brighter, smoother skin after a single treatment.
 
 ### Deep Pore Cleansing
 
-Removes blackheads and impurities.
+Removes blackheads, whiteheads and impurities.
 
 ### Hydration Boost
 
-Intense moisture for plump, dewy skin.
+Intense moisture infusion for plump, dewy skin.
 
-### Anti-Ageing
+### Anti-Ageing Action
 
-Reduces fine lines and sun damage.
+Reduces fine lines, wrinkles and sun damage.
 
 ### Customisable
 
-Tailored serums for your specific concerns.
+Tailored serums target your specific skin concerns.
 
 ### No Downtime
 
-Walk out glowing — safe for sensitive skin.
+Gentle enough to be done during a lunch hour; safe for all skin types.
 
-What To Expect
+Who It's For
 
-## Your Healing Journey
-1
+## Ideal For
+Brides-to-be and special occasionsMonthly maintenance for clear skinAcne, pigmentation and uneven toneAnyone seeking a fresh, hydrated, youthful appearance
 
-### Consultation
+## Frequently Asked Questions
 
-A one-on-one assessment with Dr. Bali to understand your health history and goals.
-2
+**Q: How long does a HydraFacial take?**
 
-### Personalised Plan
+The treatment typically takes 30 to 45 minutes.
 
-A plan tailored precisely to your needs, constitution and objectives.
-3
+**Q: What skin concerns does it treat?**
 
-### Treatment
+Fine lines, wrinkles, clogged pores, acne, uneven tone and dehydration.
 
-Your therapy in our serene, hygienic sanctuary under expert supervision.
-4
+**Q: Is it suitable for all skin types?**
 
-### Ongoing Care
+Yes — it's safe and effective for all skin types, including sensitive skin.
 
-Follow-up and lifestyle guidance so your results last.
+**Q: Does it hurt?**
 
-## HydraFacial FAQs
-
-**Q: How long does it take?**
-
-A typical HydraFacial takes 30–45 minutes.
-
-**Q: What does it treat?**
-
-Fine lines, acne, clogged pores, uneven tone and dehydration.
-
-**Q: Is it suitable for sensitive skin?**
-
-Yes — it's gentle and safe for all skin types.
-
-**Q: Is there any discomfort?**
-
-None — it's gentle and relaxing.
+No — it's a gentle, relaxing procedure with no discomfort.
 
 ## Book Your Consultation
 

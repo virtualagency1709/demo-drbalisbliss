@@ -1,6 +1,6 @@
 <!--
 Source (live): https://drbalisbliss.com/detox-programs/
-Demo page:     https://demo-drbalisbliss.vercel.app/service/detox.html
+Demo page:     /service/detox.html
 Title:         Detox Programs in Delhi | Dr. Bali's Bliss
 Meta:          Holistic detox programs at Dr. Bali's Bliss, Delhi — 1 to 14-day cleanses combining colon hydrotherapy, liver flush, lymphatic drainage, sauna, yoga and detox meals.
 -->
@@ -13,86 +13,116 @@ Embrace the opportunity to thrive. Allow us to walk with you on a path to vibran
 
 Book a Free ConsultationLearn More
 
-Understanding the Therapy
+Your Path to Health
 
-## What is a Bliss Detox Program?
+## Dr. Bali's Detox Therapy
 
-Dr. Bali's detox therapy emphasises comprehensive cleansing of mind, body and energy systems before pursuing other therapeutic methods. Our integrated programs combine colon hydrotherapy, liver and gallbladder cleansing, lymphatic drainage, steam therapy, breathwork, yoga and nutritional guidance.
+At Dr. Bali’s ‘Bliss’ Integrative Holistic Health Centre, Detox Therapy begins by cleansing the entire mind, body and energy systems — before layering in other approaches like balanced diet and lifestyle change.
 
-Available as 1-day, 3-day, 7-day and 14-day packages, each plan is personally designed by Dr. Poonam Bali and her expert team — with optional residential accommodation.
+Detox works across every channel of elimination: the colon, liver and gallbladder, lymphatic system, skin, breath and mind — supported by clean nutrition, fasting, movement and rest, so the body can release what no longer serves it.
 
-What's Included
+How We Cleanse
 
-## Your Program Includes
-Colon hydrotherapy sessions (3–5 minimum)
-Liver and gallbladder cleanse (5.5-day oral protocol)
-Lymphatic drainage massages with herbal oils
-Infrared sauna detoxification
-Yoga and meditation practices
-Dietary guidance and detox meals
-Mind detox therapies (Shirodhara, sound healing)
-Optional residential accommodation
-Why Choose This Therapy
+## The Bliss Detox Process
 
-## Key Benefits
+### Body Detox (Colon Cleanse)
 
-### Better Digestion
+Cleansing the digestive system — the colon is the body's main drainage system — over a minimum of 3–5 sessions.
 
-Improved digestion and gut function.
+### Liver & Gallbladder Cleanse
 
-### Increased Energy
+A 5.5-day oral process using the colon as the channel to eliminate heavy metals, gallstones and liver sludge.
 
-Renewed energy and vitality.
+### Lymphatic Drainage & Scrubs
 
-### Clearer Skin
+Cellular cleansing of toxic waste in intercellular spaces through hot herbal oil massage and detox scrubs.
 
-Clearer, healthier-looking skin.
+### Steam & Breathwork
 
-### Stress Reduction
+Wet steam liquefies deep-tissue waste through the skin, while regulated breathing makes up as much as 70% of the detox process.
 
-Lower stress and emotional balance.
+### Exercise & Yoga
 
-What To Expect
+Sports, yogic stretches, walking, running, swimming or cycling release toxins through sweat, with water-rich foods.
 
-## Your Healing Journey
-1
+### Mind Detox
 
-### Consultation
+Shirodhara, meditation, sound healing, nature walks and deep sleep clear mental 'baggage' and brain fog.
 
-A one-on-one assessment with Dr. Bali to understand your health history and goals.
-2
+### Fasting
 
-### Personalised Plan
+Periodic fasting on Full Moon, New Moon and Ekadashi days, with fruit, juice, water and salad plans.
 
-A plan tailored precisely to your needs, constitution and objectives.
-3
+Individual Treatments
 
-### Treatment
+## Detox Treatments & Pricing
+| | Treatment | Price | Duration |
+| Colon Hydrotherapy (with mud pack + acupressure, 2 therapists) | ₹ 4,000 | 50 min |
+| Liver & Gall Bladder Cleanse (oral method) | ₹ 2,500 | 5.5 days |
+| 'Bliss' Detox Body Scrub (organic, freshly made) | ₹ 2,500 | 45 min |
+| Drainage Detox Hot Herbal Oil Therapy + Steam | ₹ 2,500 | 60 min |
 
-Your therapy in our serene, hygienic sanctuary under expert supervision.
-4
+Day Programs
 
-### Ongoing Care
+## 'Bliss' Detox Plans
 
-Follow-up and lifestyle guidance so your results last.
+Combination day programs of colonics, ozone, sauna, scrubs, massage, Shirodhara, yoga and detox meals.
 
-## Detox Programs FAQs
+### 1 Day Detox
 
-**Q: What is a 'Bliss' detox program?**
+1 Colonic + 1 Rectal Ozone, Infrared Sauna, Body Scrub, Lymphatic Drainage Massage, Shirodhara, detox meals & yoga. ₹ 12,500
 
-A holistic cleanse combining colon and liver flushes, body scrubs, massages, steam, breathwork, diet, and mind-body therapies.
+### 3 Days Detox
 
-**Q: What package options are there?**
+3 Colonics + 3 Rectal Ozone, sauna/ozone steam, scrub, massage, 2 Shirodhara, 3 yoga & detox meals. ₹ 26,500
 
-1-day, 3-day, 7-day and 14-day programs.
+### 7 Days Detox
 
-**Q: What are the benefits?**
+3 Colonics + 7 Rectal Ozone, sauna, ozone steam, liver & gallbladder cleanse, 3 Shirodhara, massage, yoga. ₹ 43,500
+
+### 14 Days Detox
+
+10 sauna, ozone steam, 5 colonics + 10 rectal ozone, liver cleanse, scrub, 4 massage, 7 Shirodhara, meals & yoga. ₹ 1,13,000
+
+Residential Programs
+
+## Stay & Heal at the Homestay
+
+The same programs with detox meals, yoga and room stay (₹ 4,500/day) at Dr. Bali's calm, green Delhi homestay.
+
+### 1 Day (Residential)
+
+Full 1-day detox plus detox meal, yoga & room stay. ₹ 16,200
+
+### 3 Days (Residential)
+
+Full 3-day detox plus meals, yoga & room stay. ₹ 37,600
+
+### 7 Days (Residential)
+
+Full 7-day detox plus meals, yoga & room stay. ₹ 69,400
+
+### 14 Days (Residential)
+
+Full 14-day detox plus meals, yoga & room stay. ₹ 1,13,000
+
+## Frequently Asked Questions
+
+**Q: What's a 'Bliss' detox program?**
+
+A holistic cleanse combining colon and liver flushes, body scrubs, massages, steam, breathwork, diet and mind-body therapies.
+
+**Q: What package options are available?**
+
+1-day, 3-day, 7-day and 14-day programs, as day or residential plans, with combinations of colonics, massages, scrubs, steam, yoga, diet and counselling.
+
+**Q: What benefits do they offer?**
 
 Better digestion, increased energy, clearer skin, stress reduction and emotional balance.
 
-**Q: Who designs the plan?**
+**Q: Who supervises the detox?**
 
-Dr. Poonam Bali and her expert team design personalised plans.
+Dr. Poonam Bali and her expert team design personalised plans under medical oversight.
 
 ## Book Your Consultation
 

@@ -1,6 +1,6 @@
 <!--
 Source (live): https://drbalisbliss.com/homestay/
-Demo page:     https://demo-drbalisbliss.vercel.app/service/bliss-retreat.html
+Demo page:     /service/bliss-retreat.html
 Title:         Bliss Residential Health Retreat in Delhi | Dr. Bali's Bliss
 Meta:          Stay, heal and rejuvenate at Dr. Bali's Bliss residential health retreat in Delhi — 1 to 14-day detox programs with satvik meals, holistic therapies, yoga and personalized protocols.
 -->
@@ -13,81 +13,61 @@ Rejuvenate your mind and body with healing stays — a tranquil residential dest
 
 Book a Free ConsultationLearn More
 
-Understanding the Therapy
+Stay, Heal & Rejuvenate
 
-## A Holistic Wellness Destination
+## 'Bliss' Residential Health Retreats
 
-A tranquil residential facility in Delhi offering comprehensive detox and healing programs. Guests receive personalized wellness protocols combining multiple therapeutic modalities.
+At Dr. Bali’s Bliss Clinic, we offer more than just treatments — we offer a complete healing experience through our exclusive residential facility. Nestled in a tranquil environment in Delhi, the clinic provides boarding and lodging for those seeking deep detox, inner balance and a break from the chaos of daily life.
 
-Programs range from 1-day to 14-day stays, designed to support deep cleansing, rest and a complete lifestyle reset — guided by a consulting doctor and tailored to your health assessment.
+Whether you join us for a 1-day, 3-day, 7-day, 14-day or weekend detox program, your stay is designed to nourish body, mind and spirit.
 
-What's Included
+All-Inclusive
 
-## Your Stay Includes
-Comfortable, serene rooms with essential amenities
-Nutritious satvik meals from seasonal, local ingredients
-Holistic therapies — colon cleansing, naturopathy, acupuncture, lymphatic drainage
-Personalized detox protocols tailored to you
-Yoga, meditation and breathwork sessions
-Herbal teas, healing broths and wellness juices
-Access to infrared sauna, ozone therapy and body treatments
-Why Choose This Therapy
+## Your Residential Package Includes
+Comfortable, serene rooms with all essentials for a peaceful healing stayNutritious, satvik meals freshly prepared from seasonal, local ingredientsHolistic therapies — colon cleansing, naturopathy, acupuncture, lymphatic drainage and morePersonalised detox protocols tailored to your body type and needsGentle yoga, meditation and breathwork sessionsHerbal teas, healing broths and wellness juices
+Who It's For
 
-## Key Benefits
+## Ideal For Anyone Seeking
+A deep cleanse of the digestive system and lymphatic pathwaysRelief from chronic fatigue, bloating, stress and sluggish metabolismA peaceful space to reset lifestyle habits and reconnect with themselves
+Stay & Heal
 
-### Serene Stays
+## Residential Detox Plans
 
-Comfortable, calming rooms designed for rest and recovery.
+Each plan includes detox meals, yoga and room stay (₹ 4,500/day).
 
-### Satvik Meals
+### 1 Day Detox
 
-Nutritious, seasonal, plant-based food that heals.
+Colonic + rectal ozone, infrared sauna, body scrub, lymphatic massage and Shirodhara. ₹ 16,200
 
-### Holistic Therapies
+### 3 Days Detox
 
-Colon cleansing, naturopathy, acupuncture and more.
+3 colonics + ozone, sauna/steam, scrub, massage, 2 Shirodhara and 3 yoga sessions. ₹ 37,600
 
-### Yoga & Meditation
+### 7 Days Detox
 
-Daily yoga, meditation and breathwork sessions.
+3 colonics + 7 ozone, sauna, steam, liver & gallbladder cleanse, 3 Shirodhara and massage. ₹ 69,400
 
-What To Expect
+### 14 Days Detox
 
-## Your Healing Journey
-1
+10 sauna, ozone steam, 5 colonics + 10 ozone, liver cleanse, scrub, 4 massage and 7 Shirodhara. ₹ 1,13,000
 
-### Consultation
+## Frequently Asked Questions
 
-A one-on-one assessment with Dr. Bali to understand your health history and goals.
-2
+**Q: What is the Bliss Homestay?**
 
-### Personalised Plan
+A serene residential retreat in Delhi offering holistic detox and healing programs.
 
-A plan tailored precisely to your needs, constitution and objectives.
-3
+**Q: What's included in the stay?**
 
-### Treatment
+Comfortable rooms, satvik meals, therapies, yoga, meditation and herbal wellness drinks.
 
-Your therapy in our serene, hygienic sanctuary under expert supervision.
-4
+**Q: Who is it for?**
 
-### Ongoing Care
+Ideal for anyone needing detox, stress relief, a lifestyle reset or emotional healing.
 
-Follow-up and lifestyle guidance so your results last.
+**Q: What programs are available?**
 
-## Bliss Retreat FAQs
-
-**Q: Who is the retreat ideal for?**
-
-Anyone needing detox, stress relief and emotional healing — programs suit various time frames and budgets.
-
-**Q: How long are the programs?**
-
-From 1-day resets to 14-day deep-cleansing stays, customized to your needs.
-
-**Q: How are programs personalized?**
-
-A consulting doctor customizes your program based on a health assessment.
+1-day to 14-day stays, plus weekend retreats tailored to your health needs.
 
 ## Book Your Consultation
 

@@ -1,6 +1,6 @@
 <!--
 Source (live): https://drbalisbliss.com/rejuvenation-therapies/
-Demo page:     https://demo-drbalisbliss.vercel.app/service/rejuvenation.html
+Demo page:     /service/rejuvenation.html
 Title:         Rejuvenation Therapies in Delhi | Dr. Bali's Bliss
 Meta:          Rejuvenation therapies at Dr. Bali's Bliss, Delhi — restore immunity, reverse ageing and regain vitality through colon cleanse, detox massages, naturopathy, yoga and nutrition.
 -->
@@ -13,70 +13,90 @@ Prevent illness, restore immune power, reverse ageing and regain vitality at bot
 
 Book a Free ConsultationLearn More
 
-Understanding the Therapy
+Age Well, Live Well
 
-## What are Rejuvenation Therapies?
+## Look Healthy & Young with Rejuvenation Therapies
 
-Rejuvenation therapy is a mode of treatment aimed at preventing illness, restoring immune power, reversing the effects of age and promoting youthfulness.
+Rejuvenation therapy aims at preventing illness, restoring immune power, reversing the signs of age and promoting youthfulness — addressing both mental and physical wellness to restore vigour and youthful energy.
 
-Through personalised wellness sessions designed to harmonise mind and body, you regain vitality on both mental and physical levels.
-
-What's Offered
-
-## Therapies Included
-Colon hydrotherapy
-Detox massages (Ayurvedic, deep tissue, Thai, Swedish, Balinese)
-Liver and gallbladder cleanse
-Body detox scrubs
-Steam therapy
-Naturopathy (mud packs, acupuncture, forest bathing)
-Yoga, pranayama and meditation
-Nutrition counselling
 Why Choose This Therapy
 
-## Key Benefits
+## Benefits
 
-### Better Sleep & Energy
+### Improved Sleep
 
-Improved sleep and renewed energy.
+Deeper, more restful sleep.
 
-### Stronger Immunity
+### Prevents Sickness
 
-Enhanced immune function.
+Elevated immune power that helps prevent illness.
 
-### Glowing Skin
+### Better Retention
 
-Glowing, firmer skin.
+Improves retention at the mind level and helps prevent dementia.
 
-### Stress & Toxin Relief
+### Higher Stamina
 
-Relief from stress and toxins.
+Renewed stamina and refreshed energy.
 
-What To Expect
+### Glowing, Firmer Skin
 
-## Your Healing Journey
-1
+Glowing, firmer skin from the inside out.
 
-### Consultation
+### Body Detox
 
-A one-on-one assessment with Dr. Bali to understand your health history and goals.
-2
+A thorough detox of the body for lasting vitality.
 
-### Personalised Plan
+What's Involved
 
-A plan tailored precisely to your needs, constitution and objectives.
-3
+## Core Therapies Offered
 
-### Treatment
+### Colon Hydrotherapy
 
-Your therapy in our serene, hygienic sanctuary under expert supervision.
-4
+Periodical cleansing removes accumulated waste and gases, rejuvenating the body.
 
-### Ongoing Care
+### Liver & Gall Bladder Cleanse
 
-Follow-up and lifestyle guidance so your results last.
+Detoxifies the digestive organs to restore energy and metabolic function.
 
-## Rejuvenation Therapies FAQs
+### Detox Massages
+
+Ayurvedic (Abhyangam, Shirodhara, Potli) and Oriental/European techniques to boost circulation and muscular detox.
+
+### Body Detox Scrubs
+
+Natural exfoliation with herbal powders, grains and essential oils to cleanse and renew the skin.
+
+### Steam Therapy
+
+Opens pores, flushes toxins, improves circulation and eases stiffness.
+
+### Naturopathy
+
+Mud packs, hydrobaths, lymphatic drainage, acupuncture, sun/air baths, forest bathing and fasting.
+
+### Yoga, Pranayam & Meditation
+
+A comprehensive practice that rejuvenates mind, body, emotion and energy.
+
+### Food & Nutrition
+
+A balanced, natural diet supplemented with essential minerals, vitamins and salts.
+
+Treatments & Pricing
+
+## Rejuvenation Therapies & Pricing
+| | Category | Service | Price |
+| European Range | Swedish Therapy | ₹ 2,500 |
+| European Range | Deep Tissue Therapy | ₹ 2,500 |
+| European Range | Aromatherapy | ₹ 2,500 |
+| Oriental Therapy | Shiatsu / Thai Therapy | ₹ 3,000 |
+| Oriental Therapy | Balinese | ₹ 2,500 |
+| Reflexology | Foot + Hand (30 min) | ₹ 1,250 |
+| Reflexology | Foot + Hand (45 min) | ₹ 1,800 |
+| Reflexology | Foot + Hand (60 min) | ₹ 2,500 |
+
+## Frequently Asked Questions
 
 **Q: What therapies are offered?**
 
