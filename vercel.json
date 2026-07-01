@@ -2,933 +2,933 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "/homepage/index.php",
+      "destination": "/homepage/index.html",
       "permanent": true
     },
     {
       "source": "/about-bliss",
-      "destination": "/about-bliss.php",
+      "destination": "/about-bliss.html",
       "permanent": true
     },
     {
       "source": "/about-bliss/",
-      "destination": "/about-bliss.php",
+      "destination": "/about-bliss.html",
       "permanent": true
     },
     {
       "source": "/about-dr-bali",
-      "destination": "/about-dr-bali.php",
+      "destination": "/about-dr-bali.html",
       "permanent": true
     },
     {
       "source": "/about-dr-bali/",
-      "destination": "/about-dr-bali.php",
+      "destination": "/about-dr-bali.html",
       "permanent": true
     },
     {
       "source": "/testimonials",
-      "destination": "/testimonials.php",
+      "destination": "/testimonials.html",
       "permanent": true
     },
     {
       "source": "/testimonials/",
-      "destination": "/testimonials.php",
+      "destination": "/testimonials.html",
       "permanent": true
     },
     {
       "source": "/consultation",
-      "destination": "/consultation.php",
+      "destination": "/consultation.html",
       "permanent": true
     },
     {
       "source": "/consultation/",
-      "destination": "/consultation.php",
+      "destination": "/consultation.html",
       "permanent": true
     },
     {
       "source": "/faqs",
-      "destination": "/faqs.php",
+      "destination": "/faqs.html",
       "permanent": true
     },
     {
       "source": "/faqs/",
-      "destination": "/faqs.php",
+      "destination": "/faqs.html",
       "permanent": true
     },
     {
       "source": "/contact-us",
-      "destination": "/contact-us.php",
+      "destination": "/contact-us.html",
       "permanent": true
     },
     {
       "source": "/contact-us/",
-      "destination": "/contact-us.php",
+      "destination": "/contact-us.html",
       "permanent": true
     },
     {
       "source": "/blogs",
-      "destination": "/blogs.php",
+      "destination": "/blogs.html",
       "permanent": true
     },
     {
       "source": "/blogs/",
-      "destination": "/blogs.php",
+      "destination": "/blogs.html",
       "permanent": true
     },
     {
       "source": "/disclaimer",
-      "destination": "/disclaimer.php",
+      "destination": "/disclaimer.html",
       "permanent": true
     },
     {
       "source": "/disclaimer/",
-      "destination": "/disclaimer.php",
+      "destination": "/disclaimer.html",
       "permanent": true
     },
     {
       "source": "/privacy-policy",
-      "destination": "/privacy-policy.php",
+      "destination": "/privacy-policy.html",
       "permanent": true
     },
     {
       "source": "/privacy-policy/",
-      "destination": "/privacy-policy.php",
+      "destination": "/privacy-policy.html",
       "permanent": true
     },
     {
       "source": "/terms-and-conditions",
-      "destination": "/terms-and-conditions.php",
+      "destination": "/terms-and-conditions.html",
       "permanent": true
     },
     {
       "source": "/terms-and-conditions/",
-      "destination": "/terms-and-conditions.php",
+      "destination": "/terms-and-conditions.html",
       "permanent": true
     },
     {
       "source": "/acupuncture",
-      "destination": "/service/acupuncture.php",
+      "destination": "/service/acupuncture.html",
       "permanent": true
     },
     {
       "source": "/acupuncture/",
-      "destination": "/service/acupuncture.php",
+      "destination": "/service/acupuncture.html",
       "permanent": true
     },
     {
       "source": "/ayurveda-panchkarma",
-      "destination": "/service/ayurveda.php",
+      "destination": "/service/ayurveda.html",
       "permanent": true
     },
     {
       "source": "/ayurveda-panchkarma/",
-      "destination": "/service/ayurveda.php",
+      "destination": "/service/ayurveda.html",
       "permanent": true
     },
     {
       "source": "/homestay",
-      "destination": "/service/bliss-retreat.php",
+      "destination": "/service/bliss-retreat.html",
       "permanent": true
     },
     {
       "source": "/homestay/",
-      "destination": "/service/bliss-retreat.php",
+      "destination": "/service/bliss-retreat.html",
       "permanent": true
     },
     {
       "source": "/botox-and-dermal-fillers",
-      "destination": "/service/botox-dermal-fillers.php",
+      "destination": "/service/botox-dermal-fillers.html",
       "permanent": true
     },
     {
       "source": "/botox-and-dermal-fillers/",
-      "destination": "/service/botox-dermal-fillers.php",
+      "destination": "/service/botox-dermal-fillers.html",
       "permanent": true
     },
     {
       "source": "/chelation-therapy",
-      "destination": "/service/chelation-therapy.php",
+      "destination": "/service/chelation-therapy.html",
       "permanent": true
     },
     {
       "source": "/chelation-therapy/",
-      "destination": "/service/chelation-therapy.php",
+      "destination": "/service/chelation-therapy.html",
       "permanent": true
     },
     {
       "source": "/colon-hydrotherapy",
-      "destination": "/service/colon-hydrotherapy.php",
+      "destination": "/service/colon-hydrotherapy.html",
       "permanent": true
     },
     {
       "source": "/colon-hydrotherapy/",
-      "destination": "/service/colon-hydrotherapy.php",
+      "destination": "/service/colon-hydrotherapy.html",
       "permanent": true
     },
     {
       "source": "/detox-programs",
-      "destination": "/service/detox.php",
+      "destination": "/service/detox.html",
       "permanent": true
     },
     {
       "source": "/detox-programs/",
-      "destination": "/service/detox.php",
+      "destination": "/service/detox.html",
       "permanent": true
     },
     {
       "source": "/food-nutrition",
-      "destination": "/service/food-nutrition.php",
+      "destination": "/service/food-nutrition.html",
       "permanent": true
     },
     {
       "source": "/food-nutrition/",
-      "destination": "/service/food-nutrition.php",
+      "destination": "/service/food-nutrition.html",
       "permanent": true
     },
     {
       "source": "/homeopathy",
-      "destination": "/service/homeopathy.php",
+      "destination": "/service/homeopathy.html",
       "permanent": true
     },
     {
       "source": "/homeopathy/",
-      "destination": "/service/homeopathy.php",
+      "destination": "/service/homeopathy.html",
       "permanent": true
     },
     {
       "source": "/hydrafacial",
-      "destination": "/service/hydrafacial.php",
+      "destination": "/service/hydrafacial.html",
       "permanent": true
     },
     {
       "source": "/hydrafacial/",
-      "destination": "/service/hydrafacial.php",
+      "destination": "/service/hydrafacial.html",
       "permanent": true
     },
     {
       "source": "/infrared-sauna",
-      "destination": "/service/infrared-sauna.php",
+      "destination": "/service/infrared-sauna.html",
       "permanent": true
     },
     {
       "source": "/infrared-sauna/",
-      "destination": "/service/infrared-sauna.php",
+      "destination": "/service/infrared-sauna.html",
       "permanent": true
     },
     {
       "source": "/iv-nutritional-therapy-delhi",
-      "destination": "/service/iv-therapy.php",
+      "destination": "/service/iv-therapy.html",
       "permanent": true
     },
     {
       "source": "/iv-nutritional-therapy-delhi/",
-      "destination": "/service/iv-therapy.php",
+      "destination": "/service/iv-therapy.html",
       "permanent": true
     },
     {
       "source": "/our-services/lymphatic-drainage-massage",
-      "destination": "/service/lymphatic-drainage.php",
+      "destination": "/service/lymphatic-drainage.html",
       "permanent": true
     },
     {
       "source": "/our-services/lymphatic-drainage-massage/",
-      "destination": "/service/lymphatic-drainage.php",
+      "destination": "/service/lymphatic-drainage.html",
       "permanent": true
     },
     {
       "source": "/therapeutic-body-massage-delhi",
-      "destination": "/service/manipulative-body-work.php",
+      "destination": "/service/manipulative-body-work.html",
       "permanent": true
     },
     {
       "source": "/therapeutic-body-massage-delhi/",
-      "destination": "/service/manipulative-body-work.php",
+      "destination": "/service/manipulative-body-work.html",
       "permanent": true
     },
     {
       "source": "/microbiome-gut-function-test",
-      "destination": "/service/microbiome-gut-test.php",
+      "destination": "/service/microbiome-gut-test.html",
       "permanent": true
     },
     {
       "source": "/microbiome-gut-function-test/",
-      "destination": "/service/microbiome-gut-test.php",
+      "destination": "/service/microbiome-gut-test.html",
       "permanent": true
     },
     {
       "source": "/micorblading",
-      "destination": "/service/microblading.php",
+      "destination": "/service/microblading.html",
       "permanent": true
     },
     {
       "source": "/micorblading/",
-      "destination": "/service/microblading.php",
+      "destination": "/service/microblading.html",
       "permanent": true
     },
     {
       "source": "/naturopathy",
-      "destination": "/service/naturopathy.php",
+      "destination": "/service/naturopathy.html",
       "permanent": true
     },
     {
       "source": "/naturopathy/",
-      "destination": "/service/naturopathy.php",
+      "destination": "/service/naturopathy.html",
       "permanent": true
     },
     {
       "source": "/oligoscan",
-      "destination": "/service/oligoscan.php",
+      "destination": "/service/oligoscan.html",
       "permanent": true
     },
     {
       "source": "/oligoscan/",
-      "destination": "/service/oligoscan.php",
+      "destination": "/service/oligoscan.html",
       "permanent": true
     },
     {
       "source": "/ozone-therapy-treatment-delhi",
-      "destination": "/service/ozone-therapy.php",
+      "destination": "/service/ozone-therapy.html",
       "permanent": true
     },
     {
       "source": "/ozone-therapy-treatment-delhi/",
-      "destination": "/service/ozone-therapy.php",
+      "destination": "/service/ozone-therapy.html",
       "permanent": true
     },
     {
       "source": "/rejuvenation-therapies",
-      "destination": "/service/rejuvenation.php",
+      "destination": "/service/rejuvenation.html",
       "permanent": true
     },
     {
       "source": "/rejuvenation-therapies/",
-      "destination": "/service/rejuvenation.php",
+      "destination": "/service/rejuvenation.html",
       "permanent": true
     },
     {
       "source": "/skin-hair",
-      "destination": "/service/skin-hair-beauty.php",
+      "destination": "/service/skin-hair-beauty.html",
       "permanent": true
     },
     {
       "source": "/skin-hair/",
-      "destination": "/service/skin-hair-beauty.php",
+      "destination": "/service/skin-hair-beauty.html",
       "permanent": true
     },
     {
       "source": "/yoga-meditation",
-      "destination": "/service/yoga.php",
+      "destination": "/service/yoga.html",
       "permanent": true
     },
     {
       "source": "/yoga-meditation/",
-      "destination": "/service/yoga.php",
+      "destination": "/service/yoga.html",
       "permanent": true
     },
     {
       "source": "/blogs/a-complete-guide-to-choosing-fatty-liver-treatment-service-in-india",
-      "destination": "/blog/a-complete-guide-to-choosing-fatty-liver-treatment-service-in-india.php",
+      "destination": "/blog/a-complete-guide-to-choosing-fatty-liver-treatment-service-in-india.html",
       "permanent": true
     },
     {
       "source": "/blogs/a-complete-guide-to-choosing-fatty-liver-treatment-service-in-india/",
-      "destination": "/blog/a-complete-guide-to-choosing-fatty-liver-treatment-service-in-india.php",
+      "destination": "/blog/a-complete-guide-to-choosing-fatty-liver-treatment-service-in-india.html",
       "permanent": true
     },
     {
       "source": "/blogs/acid-reflux-massage-therapy-delhi",
-      "destination": "/blog/acid-reflux-massage-therapy-delhi.php",
+      "destination": "/blog/acid-reflux-massage-therapy-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/acid-reflux-massage-therapy-delhi/",
-      "destination": "/blog/acid-reflux-massage-therapy-delhi.php",
+      "destination": "/blog/acid-reflux-massage-therapy-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/acid-reflux-treatment-in-south-delhi-2",
-      "destination": "/blog/acid-reflux-treatment-in-south-delhi-2.php",
+      "destination": "/blog/acid-reflux-treatment-in-south-delhi-2.html",
       "permanent": true
     },
     {
       "source": "/blogs/acid-reflux-treatment-in-south-delhi-2/",
-      "destination": "/blog/acid-reflux-treatment-in-south-delhi-2.php",
+      "destination": "/blog/acid-reflux-treatment-in-south-delhi-2.html",
       "permanent": true
     },
     {
       "source": "/blogs/acid-reflux-treatment-in-south-delhi",
-      "destination": "/blog/acid-reflux-treatment-in-south-delhi.php",
+      "destination": "/blog/acid-reflux-treatment-in-south-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/acid-reflux-treatment-in-south-delhi/",
-      "destination": "/blog/acid-reflux-treatment-in-south-delhi.php",
+      "destination": "/blog/acid-reflux-treatment-in-south-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/benefits-of-medical-ozone-therapy-for-overall-wellness",
-      "destination": "/blog/benefits-of-medical-ozone-therapy-for-overall-wellness.php",
+      "destination": "/blog/benefits-of-medical-ozone-therapy-for-overall-wellness.html",
       "permanent": true
     },
     {
       "source": "/blogs/benefits-of-medical-ozone-therapy-for-overall-wellness/",
-      "destination": "/blog/benefits-of-medical-ozone-therapy-for-overall-wellness.php",
+      "destination": "/blog/benefits-of-medical-ozone-therapy-for-overall-wellness.html",
       "permanent": true
     },
     {
       "source": "/blogs/benefits-of-ozone-therapy-treatment",
-      "destination": "/blog/benefits-of-ozone-therapy-treatment.php",
+      "destination": "/blog/benefits-of-ozone-therapy-treatment.html",
       "permanent": true
     },
     {
       "source": "/blogs/benefits-of-ozone-therapy-treatment/",
-      "destination": "/blog/benefits-of-ozone-therapy-treatment.php",
+      "destination": "/blog/benefits-of-ozone-therapy-treatment.html",
       "permanent": true
     },
     {
       "source": "/blogs/best-acid-reflux-massage-therapy-in-delhi-treatments",
-      "destination": "/blog/best-acid-reflux-massage-therapy-in-delhi-treatments.php",
+      "destination": "/blog/best-acid-reflux-massage-therapy-in-delhi-treatments.html",
       "permanent": true
     },
     {
       "source": "/blogs/best-acid-reflux-massage-therapy-in-delhi-treatments/",
-      "destination": "/blog/best-acid-reflux-massage-therapy-in-delhi-treatments.php",
+      "destination": "/blog/best-acid-reflux-massage-therapy-in-delhi-treatments.html",
       "permanent": true
     },
     {
       "source": "/blogs/botox-and-dermal-fillers",
-      "destination": "/blog/botox-and-dermal-fillers.php",
+      "destination": "/blog/botox-and-dermal-fillers.html",
       "permanent": true
     },
     {
       "source": "/blogs/botox-and-dermal-fillers/",
-      "destination": "/blog/botox-and-dermal-fillers.php",
+      "destination": "/blog/botox-and-dermal-fillers.html",
       "permanent": true
     },
     {
       "source": "/blogs/chelation-therapy-benefits",
-      "destination": "/blog/chelation-therapy-benefits.php",
+      "destination": "/blog/chelation-therapy-benefits.html",
       "permanent": true
     },
     {
       "source": "/blogs/chelation-therapy-benefits/",
-      "destination": "/blog/chelation-therapy-benefits.php",
+      "destination": "/blog/chelation-therapy-benefits.html",
       "permanent": true
     },
     {
       "source": "/blogs/choose-holistic-ozone-clinic-for-preventive-health-care",
-      "destination": "/blog/choose-holistic-ozone-clinic-for-preventive-health-care.php",
+      "destination": "/blog/choose-holistic-ozone-clinic-for-preventive-health-care.html",
       "permanent": true
     },
     {
       "source": "/blogs/choose-holistic-ozone-clinic-for-preventive-health-care/",
-      "destination": "/blog/choose-holistic-ozone-clinic-for-preventive-health-care.php",
+      "destination": "/blog/choose-holistic-ozone-clinic-for-preventive-health-care.html",
       "permanent": true
     },
     {
       "source": "/blogs/colon-hydrotherapy-a-natural-way-to-improve-your-digestive-health",
-      "destination": "/blog/colon-hydrotherapy-a-natural-way-to-improve-your-digestive-health.php",
+      "destination": "/blog/colon-hydrotherapy-a-natural-way-to-improve-your-digestive-health.html",
       "permanent": true
     },
     {
       "source": "/blogs/colon-hydrotherapy-a-natural-way-to-improve-your-digestive-health/",
-      "destination": "/blog/colon-hydrotherapy-a-natural-way-to-improve-your-digestive-health.php",
+      "destination": "/blog/colon-hydrotherapy-a-natural-way-to-improve-your-digestive-health.html",
       "permanent": true
     },
     {
       "source": "/blogs/constipation-treatment-south-delhi",
-      "destination": "/blog/constipation-treatment-south-delhi.php",
+      "destination": "/blog/constipation-treatment-south-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/constipation-treatment-south-delhi/",
-      "destination": "/blog/constipation-treatment-south-delhi.php",
+      "destination": "/blog/constipation-treatment-south-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/detox-ayurveda-treatment-south-delhi",
-      "destination": "/blog/detox-ayurveda-treatment-south-delhi.php",
+      "destination": "/blog/detox-ayurveda-treatment-south-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/detox-ayurveda-treatment-south-delhi/",
-      "destination": "/blog/detox-ayurveda-treatment-south-delhi.php",
+      "destination": "/blog/detox-ayurveda-treatment-south-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/discover-iv-nutritional-therapy-benefits-for-faster-safer-recovery",
-      "destination": "/blog/discover-iv-nutritional-therapy-benefits-for-faster-safer-recovery.php",
+      "destination": "/blog/discover-iv-nutritional-therapy-benefits-for-faster-safer-recovery.html",
       "permanent": true
     },
     {
       "source": "/blogs/discover-iv-nutritional-therapy-benefits-for-faster-safer-recovery/",
-      "destination": "/blog/discover-iv-nutritional-therapy-benefits-for-faster-safer-recovery.php",
+      "destination": "/blog/discover-iv-nutritional-therapy-benefits-for-faster-safer-recovery.html",
       "permanent": true
     },
     {
       "source": "/blogs/fatty-liver-treatment-delhi",
-      "destination": "/blog/fatty-liver-treatment-delhi.php",
+      "destination": "/blog/fatty-liver-treatment-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/fatty-liver-treatment-delhi/",
-      "destination": "/blog/fatty-liver-treatment-delhi.php",
+      "destination": "/blog/fatty-liver-treatment-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/fatty-liver",
-      "destination": "/blog/fatty-liver.php",
+      "destination": "/blog/fatty-liver.html",
       "permanent": true
     },
     {
       "source": "/blogs/fatty-liver/",
-      "destination": "/blog/fatty-liver.php",
+      "destination": "/blog/fatty-liver.html",
       "permanent": true
     },
     {
       "source": "/blogs/food-nutrition-and-balanced-diet-for-holistic-health",
-      "destination": "/blog/food-nutrition-and-balanced-diet-for-holistic-health.php",
+      "destination": "/blog/food-nutrition-and-balanced-diet-for-holistic-health.html",
       "permanent": true
     },
     {
       "source": "/blogs/food-nutrition-and-balanced-diet-for-holistic-health/",
-      "destination": "/blog/food-nutrition-and-balanced-diet-for-holistic-health.php",
+      "destination": "/blog/food-nutrition-and-balanced-diet-for-holistic-health.html",
       "permanent": true
     },
     {
       "source": "/blogs/full-body-massage-benefits-guide",
-      "destination": "/blog/full-body-massage-benefits-guide.php",
+      "destination": "/blog/full-body-massage-benefits-guide.html",
       "permanent": true
     },
     {
       "source": "/blogs/full-body-massage-benefits-guide/",
-      "destination": "/blog/full-body-massage-benefits-guide.php",
+      "destination": "/blog/full-body-massage-benefits-guide.html",
       "permanent": true
     },
     {
       "source": "/blogs/gall-stone-treatment-in-ayurveda",
-      "destination": "/blog/gall-stone-treatment-in-ayurveda.php",
+      "destination": "/blog/gall-stone-treatment-in-ayurveda.html",
       "permanent": true
     },
     {
       "source": "/blogs/gall-stone-treatment-in-ayurveda/",
-      "destination": "/blog/gall-stone-treatment-in-ayurveda.php",
+      "destination": "/blog/gall-stone-treatment-in-ayurveda.html",
       "permanent": true
     },
     {
       "source": "/blogs/gallstone-removal-techniques-that-promote-quick-recovery-and-comfort",
-      "destination": "/blog/gallstone-removal-techniques-that-promote-quick-recovery-and-comfort.php",
+      "destination": "/blog/gallstone-removal-techniques-that-promote-quick-recovery-and-comfort.html",
       "permanent": true
     },
     {
       "source": "/blogs/gallstone-removal-techniques-that-promote-quick-recovery-and-comfort/",
-      "destination": "/blog/gallstone-removal-techniques-that-promote-quick-recovery-and-comfort.php",
+      "destination": "/blog/gallstone-removal-techniques-that-promote-quick-recovery-and-comfort.html",
       "permanent": true
     },
     {
       "source": "/blogs/gerd-massage-therapy-delhi",
-      "destination": "/blog/gerd-massage-therapy-delhi.php",
+      "destination": "/blog/gerd-massage-therapy-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/gerd-massage-therapy-delhi/",
-      "destination": "/blog/gerd-massage-therapy-delhi.php",
+      "destination": "/blog/gerd-massage-therapy-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/gerd-treatment-in-south-delhi",
-      "destination": "/blog/gerd-treatment-in-south-delhi.php",
+      "destination": "/blog/gerd-treatment-in-south-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/gerd-treatment-in-south-delhi/",
-      "destination": "/blog/gerd-treatment-in-south-delhi.php",
+      "destination": "/blog/gerd-treatment-in-south-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/gerd-treatment-south-delhi",
-      "destination": "/blog/gerd-treatment-south-delhi.php",
+      "destination": "/blog/gerd-treatment-south-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/gerd-treatment-south-delhi/",
-      "destination": "/blog/gerd-treatment-south-delhi.php",
+      "destination": "/blog/gerd-treatment-south-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/glutathione-therapy",
-      "destination": "/blog/glutathione-therapy.php",
+      "destination": "/blog/glutathione-therapy.html",
       "permanent": true
     },
     {
       "source": "/blogs/glutathione-therapy/",
-      "destination": "/blog/glutathione-therapy.php",
+      "destination": "/blog/glutathione-therapy.html",
       "permanent": true
     },
     {
       "source": "/blogs/heal-naturally-with-ozone-clinic-in-delhi-services",
-      "destination": "/blog/heal-naturally-with-ozone-clinic-in-delhi-services.php",
+      "destination": "/blog/heal-naturally-with-ozone-clinic-in-delhi-services.html",
       "permanent": true
     },
     {
       "source": "/blogs/heal-naturally-with-ozone-clinic-in-delhi-services/",
-      "destination": "/blog/heal-naturally-with-ozone-clinic-in-delhi-services.php",
+      "destination": "/blog/heal-naturally-with-ozone-clinic-in-delhi-services.html",
       "permanent": true
     },
     {
       "source": "/blogs/heart-disease-treatment",
-      "destination": "/blog/heart-disease-treatment.php",
+      "destination": "/blog/heart-disease-treatment.html",
       "permanent": true
     },
     {
       "source": "/blogs/heart-disease-treatment/",
-      "destination": "/blog/heart-disease-treatment.php",
+      "destination": "/blog/heart-disease-treatment.html",
       "permanent": true
     },
     {
       "source": "/blogs/herbal-potli-massage",
-      "destination": "/blog/herbal-potli-massage.php",
+      "destination": "/blog/herbal-potli-massage.html",
       "permanent": true
     },
     {
       "source": "/blogs/herbal-potli-massage/",
-      "destination": "/blog/herbal-potli-massage.php",
+      "destination": "/blog/herbal-potli-massage.html",
       "permanent": true
     },
     {
       "source": "/blogs/holistic-ozone-clinic-for-natural-chronic-healing",
-      "destination": "/blog/holistic-ozone-clinic-for-natural-chronic-healing.php",
+      "destination": "/blog/holistic-ozone-clinic-for-natural-chronic-healing.html",
       "permanent": true
     },
     {
       "source": "/blogs/holistic-ozone-clinic-for-natural-chronic-healing/",
-      "destination": "/blog/holistic-ozone-clinic-for-natural-chronic-healing.php",
+      "destination": "/blog/holistic-ozone-clinic-for-natural-chronic-healing.html",
       "permanent": true
     },
     {
       "source": "/blogs/holistic-treatment-centre",
-      "destination": "/blog/holistic-treatment-centre.php",
+      "destination": "/blog/holistic-treatment-centre.html",
       "permanent": true
     },
     {
       "source": "/blogs/holistic-treatment-centre/",
-      "destination": "/blog/holistic-treatment-centre.php",
+      "destination": "/blog/holistic-treatment-centre.html",
       "permanent": true
     },
     {
       "source": "/blogs/ibs-bloating-massage-therapy-in-india",
-      "destination": "/blog/ibs-bloating-massage-therapy-in-india.php",
+      "destination": "/blog/ibs-bloating-massage-therapy-in-india.html",
       "permanent": true
     },
     {
       "source": "/blogs/ibs-bloating-massage-therapy-in-india/",
-      "destination": "/blog/ibs-bloating-massage-therapy-in-india.php",
+      "destination": "/blog/ibs-bloating-massage-therapy-in-india.html",
       "permanent": true
     },
     {
       "source": "/blogs/ibs-bloating-treatment-in-south-delhi",
-      "destination": "/blog/ibs-bloating-treatment-in-south-delhi.php",
+      "destination": "/blog/ibs-bloating-treatment-in-south-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/ibs-bloating-treatment-in-south-delhi/",
-      "destination": "/blog/ibs-bloating-treatment-in-south-delhi.php",
+      "destination": "/blog/ibs-bloating-treatment-in-south-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/ibs-bloating",
-      "destination": "/blog/ibs-bloating.php",
+      "destination": "/blog/ibs-bloating.html",
       "permanent": true
     },
     {
       "source": "/blogs/ibs-bloating/",
-      "destination": "/blog/ibs-bloating.php",
+      "destination": "/blog/ibs-bloating.html",
       "permanent": true
     },
     {
       "source": "/blogs/infrared-sauna-service-benefits",
-      "destination": "/blog/infrared-sauna-service-benefits.php",
+      "destination": "/blog/infrared-sauna-service-benefits.html",
       "permanent": true
     },
     {
       "source": "/blogs/infrared-sauna-service-benefits/",
-      "destination": "/blog/infrared-sauna-service-benefits.php",
+      "destination": "/blog/infrared-sauna-service-benefits.html",
       "permanent": true
     },
     {
       "source": "/blogs/infrared-sauna-service-for-holistic-healing",
-      "destination": "/blog/infrared-sauna-service-for-holistic-healing.php",
+      "destination": "/blog/infrared-sauna-service-for-holistic-healing.html",
       "permanent": true
     },
     {
       "source": "/blogs/infrared-sauna-service-for-holistic-healing/",
-      "destination": "/blog/infrared-sauna-service-for-holistic-healing.php",
+      "destination": "/blog/infrared-sauna-service-for-holistic-healing.html",
       "permanent": true
     },
     {
       "source": "/blogs/infrared-sauna-service-for-mental-calm-balance",
-      "destination": "/blog/infrared-sauna-service-for-mental-calm-balance.php",
+      "destination": "/blog/infrared-sauna-service-for-mental-calm-balance.html",
       "permanent": true
     },
     {
       "source": "/blogs/infrared-sauna-service-for-mental-calm-balance/",
-      "destination": "/blog/infrared-sauna-service-for-mental-calm-balance.php",
+      "destination": "/blog/infrared-sauna-service-for-mental-calm-balance.html",
       "permanent": true
     },
     {
       "source": "/blogs/insomnia-treatment-south-delhi-dr-bali-bliss",
-      "destination": "/blog/insomnia-treatment-south-delhi-dr-bali-bliss.php",
+      "destination": "/blog/insomnia-treatment-south-delhi-dr-bali-bliss.html",
       "permanent": true
     },
     {
       "source": "/blogs/insomnia-treatment-south-delhi-dr-bali-bliss/",
-      "destination": "/blog/insomnia-treatment-south-delhi-dr-bali-bliss.php",
+      "destination": "/blog/insomnia-treatment-south-delhi-dr-bali-bliss.html",
       "permanent": true
     },
     {
       "source": "/blogs/lifestyle-changes-anxiety-emotional-balance",
-      "destination": "/blog/lifestyle-changes-anxiety-emotional-balance.php",
+      "destination": "/blog/lifestyle-changes-anxiety-emotional-balance.html",
       "permanent": true
     },
     {
       "source": "/blogs/lifestyle-changes-anxiety-emotional-balance/",
-      "destination": "/blog/lifestyle-changes-anxiety-emotional-balance.php",
+      "destination": "/blog/lifestyle-changes-anxiety-emotional-balance.html",
       "permanent": true
     },
     {
       "source": "/blogs/liver-detox-digestion-energy-wellbeing",
-      "destination": "/blog/liver-detox-digestion-energy-wellbeing.php",
+      "destination": "/blog/liver-detox-digestion-energy-wellbeing.html",
       "permanent": true
     },
     {
       "source": "/blogs/liver-detox-digestion-energy-wellbeing/",
-      "destination": "/blog/liver-detox-digestion-energy-wellbeing.php",
+      "destination": "/blog/liver-detox-digestion-energy-wellbeing.html",
       "permanent": true
     },
     {
       "source": "/blogs/medical-ozone-therapy-benefits-for-health-and-wellness",
-      "destination": "/blog/medical-ozone-therapy-benefits-for-health-and-wellness.php",
+      "destination": "/blog/medical-ozone-therapy-benefits-for-health-and-wellness.html",
       "permanent": true
     },
     {
       "source": "/blogs/medical-ozone-therapy-benefits-for-health-and-wellness/",
-      "destination": "/blog/medical-ozone-therapy-benefits-for-health-and-wellness.php",
+      "destination": "/blog/medical-ozone-therapy-benefits-for-health-and-wellness.html",
       "permanent": true
     },
     {
       "source": "/blogs/medical-ozone-therapy",
-      "destination": "/blog/medical-ozone-therapy.php",
+      "destination": "/blog/medical-ozone-therapy.html",
       "permanent": true
     },
     {
       "source": "/blogs/medical-ozone-therapy/",
-      "destination": "/blog/medical-ozone-therapy.php",
+      "destination": "/blog/medical-ozone-therapy.html",
       "permanent": true
     },
     {
       "source": "/blogs/meditation-centre-in-south-delhi-for-mental-balance-wellness",
-      "destination": "/blog/meditation-centre-in-south-delhi-for-mental-balance-wellness.php",
+      "destination": "/blog/meditation-centre-in-south-delhi-for-mental-balance-wellness.html",
       "permanent": true
     },
     {
       "source": "/blogs/meditation-centre-in-south-delhi-for-mental-balance-wellness/",
-      "destination": "/blog/meditation-centre-in-south-delhi-for-mental-balance-wellness.php",
+      "destination": "/blog/meditation-centre-in-south-delhi-for-mental-balance-wellness.html",
       "permanent": true
     },
     {
       "source": "/blogs/ozone-injections-for-pain-a-natural-healing-choice",
-      "destination": "/blog/ozone-injections-for-pain-a-natural-healing-choice.php",
+      "destination": "/blog/ozone-injections-for-pain-a-natural-healing-choice.html",
       "permanent": true
     },
     {
       "source": "/blogs/ozone-injections-for-pain-a-natural-healing-choice/",
-      "destination": "/blog/ozone-injections-for-pain-a-natural-healing-choice.php",
+      "destination": "/blog/ozone-injections-for-pain-a-natural-healing-choice.html",
       "permanent": true
     },
     {
       "source": "/blogs/ozone-injections-for-pain",
-      "destination": "/blog/ozone-injections-for-pain.php",
+      "destination": "/blog/ozone-injections-for-pain.html",
       "permanent": true
     },
     {
       "source": "/blogs/ozone-injections-for-pain/",
-      "destination": "/blog/ozone-injections-for-pain.php",
+      "destination": "/blog/ozone-injections-for-pain.html",
       "permanent": true
     },
     {
       "source": "/blogs/ozone-nose-therapy-benefits-for-cleaner-breathing",
-      "destination": "/blog/ozone-nose-therapy-benefits-for-cleaner-breathing.php",
+      "destination": "/blog/ozone-nose-therapy-benefits-for-cleaner-breathing.html",
       "permanent": true
     },
     {
       "source": "/blogs/ozone-nose-therapy-benefits-for-cleaner-breathing/",
-      "destination": "/blog/ozone-nose-therapy-benefits-for-cleaner-breathing.php",
+      "destination": "/blog/ozone-nose-therapy-benefits-for-cleaner-breathing.html",
       "permanent": true
     },
     {
       "source": "/blogs/post-natal-massage-therapy-in-delhi",
-      "destination": "/blog/post-natal-massage-therapy-in-delhi.php",
+      "destination": "/blog/post-natal-massage-therapy-in-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/post-natal-massage-therapy-in-delhi/",
-      "destination": "/blog/post-natal-massage-therapy-in-delhi.php",
+      "destination": "/blog/post-natal-massage-therapy-in-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/post-natal-massage-therapy",
-      "destination": "/blog/post-natal-massage-therapy.php",
+      "destination": "/blog/post-natal-massage-therapy.html",
       "permanent": true
     },
     {
       "source": "/blogs/post-natal-massage-therapy/",
-      "destination": "/blog/post-natal-massage-therapy.php",
+      "destination": "/blog/post-natal-massage-therapy.html",
       "permanent": true
     },
     {
       "source": "/blogs/post-natal-massage",
-      "destination": "/blog/post-natal-massage.php",
+      "destination": "/blog/post-natal-massage.html",
       "permanent": true
     },
     {
       "source": "/blogs/post-natal-massage/",
-      "destination": "/blog/post-natal-massage.php",
+      "destination": "/blog/post-natal-massage.html",
       "permanent": true
     },
     {
       "source": "/blogs/prenatal-massage-therapy-in-delhi-a-natural-way-to-rejuvenate",
-      "destination": "/blog/prenatal-massage-therapy-in-delhi-a-natural-way-to-rejuvenate.php",
+      "destination": "/blog/prenatal-massage-therapy-in-delhi-a-natural-way-to-rejuvenate.html",
       "permanent": true
     },
     {
       "source": "/blogs/prenatal-massage-therapy-in-delhi-a-natural-way-to-rejuvenate/",
-      "destination": "/blog/prenatal-massage-therapy-in-delhi-a-natural-way-to-rejuvenate.php",
+      "destination": "/blog/prenatal-massage-therapy-in-delhi-a-natural-way-to-rejuvenate.html",
       "permanent": true
     },
     {
       "source": "/blogs/rectal-ozone-therapy-for-gut-health-delhi",
-      "destination": "/blog/rectal-ozone-therapy-for-gut-health-delhi.php",
+      "destination": "/blog/rectal-ozone-therapy-for-gut-health-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/rectal-ozone-therapy-for-gut-health-delhi/",
-      "destination": "/blog/rectal-ozone-therapy-for-gut-health-delhi.php",
+      "destination": "/blog/rectal-ozone-therapy-for-gut-health-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/rectal-ozone-therapy",
-      "destination": "/blog/rectal-ozone-therapy.php",
+      "destination": "/blog/rectal-ozone-therapy.html",
       "permanent": true
     },
     {
       "source": "/blogs/rectal-ozone-therapy/",
-      "destination": "/blog/rectal-ozone-therapy.php",
+      "destination": "/blog/rectal-ozone-therapy.html",
       "permanent": true
     },
     {
       "source": "/blogs/sleep-issues",
-      "destination": "/blog/sleep-issues.php",
+      "destination": "/blog/sleep-issues.html",
       "permanent": true
     },
     {
       "source": "/blogs/sleep-issues/",
-      "destination": "/blog/sleep-issues.php",
+      "destination": "/blog/sleep-issues.html",
       "permanent": true
     },
     {
       "source": "/blogs/step-by-step-process-of-ozone-therapy-treatment-at-holistic-clinics",
-      "destination": "/blog/step-by-step-process-of-ozone-therapy-treatment-at-holistic-clinics.php",
+      "destination": "/blog/step-by-step-process-of-ozone-therapy-treatment-at-holistic-clinics.html",
       "permanent": true
     },
     {
       "source": "/blogs/step-by-step-process-of-ozone-therapy-treatment-at-holistic-clinics/",
-      "destination": "/blog/step-by-step-process-of-ozone-therapy-treatment-at-holistic-clinics.php",
+      "destination": "/blog/step-by-step-process-of-ozone-therapy-treatment-at-holistic-clinics.html",
       "permanent": true
     },
     {
       "source": "/blogs/therapeutic-bodywork-pain-relief",
-      "destination": "/blog/therapeutic-bodywork-pain-relief.php",
+      "destination": "/blog/therapeutic-bodywork-pain-relief.html",
       "permanent": true
     },
     {
       "source": "/blogs/therapeutic-bodywork-pain-relief/",
-      "destination": "/blog/therapeutic-bodywork-pain-relief.php",
+      "destination": "/blog/therapeutic-bodywork-pain-relief.html",
       "permanent": true
     },
     {
       "source": "/blogs/top-natural-remedies-to-soothe-acid-reflux-without-medication",
-      "destination": "/blog/top-natural-remedies-to-soothe-acid-reflux-without-medication.php",
+      "destination": "/blog/top-natural-remedies-to-soothe-acid-reflux-without-medication.html",
       "permanent": true
     },
     {
       "source": "/blogs/top-natural-remedies-to-soothe-acid-reflux-without-medication/",
-      "destination": "/blog/top-natural-remedies-to-soothe-acid-reflux-without-medication.php",
+      "destination": "/blog/top-natural-remedies-to-soothe-acid-reflux-without-medication.html",
       "permanent": true
     },
     {
       "source": "/blogs/transform-wellness-at-top-ozone-clinic-in-delhi",
-      "destination": "/blog/transform-wellness-at-top-ozone-clinic-in-delhi.php",
+      "destination": "/blog/transform-wellness-at-top-ozone-clinic-in-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/transform-wellness-at-top-ozone-clinic-in-delhi/",
-      "destination": "/blog/transform-wellness-at-top-ozone-clinic-in-delhi.php",
+      "destination": "/blog/transform-wellness-at-top-ozone-clinic-in-delhi.html",
       "permanent": true
     },
     {
       "source": "/blogs/treatment-of-respiratory-disorders",
-      "destination": "/blog/treatment-of-respiratory-disorders.php",
+      "destination": "/blog/treatment-of-respiratory-disorders.html",
       "permanent": true
     },
     {
       "source": "/blogs/treatment-of-respiratory-disorders/",
-      "destination": "/blog/treatment-of-respiratory-disorders.php",
+      "destination": "/blog/treatment-of-respiratory-disorders.html",
       "permanent": true
     },
     {
       "source": "/blogs/vaginal-ozone-therapy",
-      "destination": "/blog/vaginal-ozone-therapy.php",
+      "destination": "/blog/vaginal-ozone-therapy.html",
       "permanent": true
     },
     {
       "source": "/blogs/vaginal-ozone-therapy/",
-      "destination": "/blog/vaginal-ozone-therapy.php",
+      "destination": "/blog/vaginal-ozone-therapy.html",
       "permanent": true
     },
     {
       "source": "/blogs/what-is-shirodhara",
-      "destination": "/blog/what-is-shirodhara.php",
+      "destination": "/blog/what-is-shirodhara.html",
       "permanent": true
     },
     {
       "source": "/blogs/what-is-shirodhara/",
-      "destination": "/blog/what-is-shirodhara.php",
+      "destination": "/blog/what-is-shirodhara.html",
       "permanent": true
     },
     {
       "source": "/blogs/why-healthy-people-get-gerd",
-      "destination": "/blog/why-healthy-people-get-gerd.php",
+      "destination": "/blog/why-healthy-people-get-gerd.html",
       "permanent": true
     },
     {
       "source": "/blogs/why-healthy-people-get-gerd/",
-      "destination": "/blog/why-healthy-people-get-gerd.php",
+      "destination": "/blog/why-healthy-people-get-gerd.html",
       "permanent": true
     },
     {
       "source": "/blogs/why-you-should-try-an-insomnia-treatment-service-in-india-for-holistic-healing",
-      "destination": "/blog/why-you-should-try-an-insomnia-treatment-service-in-india-for-holistic-healing.php",
+      "destination": "/blog/why-you-should-try-an-insomnia-treatment-service-in-india-for-holistic-healing.html",
       "permanent": true
     },
     {
       "source": "/blogs/why-you-should-try-an-insomnia-treatment-service-in-india-for-holistic-healing/",
-      "destination": "/blog/why-you-should-try-an-insomnia-treatment-service-in-india-for-holistic-healing.php",
+      "destination": "/blog/why-you-should-try-an-insomnia-treatment-service-in-india-for-holistic-healing.html",
       "permanent": true
     }
   ],
   "headers": [
     {
-      "source": "/(.*).php",
+      "source": "/(.*).html",
       "headers": [
         {
           "key": "Content-Type",
